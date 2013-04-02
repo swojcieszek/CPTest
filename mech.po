@@ -1,0 +1,4564 @@
+#. extracted from ../pl\mech.csv
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-15 11:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: INIMECH_023
+msgid "Mechanical - Parts"
+msgstr "Mechanika - Normalia"
+
+#: INIMECH_024
+msgid "Mechanical - Steel shapes"
+msgstr "Mechanika - Kształtowniki"
+
+#: INIMECH_025
+msgid "Mechanical - Marks"
+msgstr "Mechanika - Symbole i oznaczenia"
+
+#: INIMECH_001
+msgid "Parts"
+msgstr "Normalia"
+
+#: INIMECH_003
+msgid "Steel shapes"
+msgstr "Kształtowniki"
+
+#: INIMECH_002
+msgid "Exchangers, Vessels, Boilers"
+msgstr "Budowa aparatów"
+
+#: INIMECH_005
+msgid "Symbols - hydraulics and pneumatics"
+msgstr "Symbole - hydraulika i pneumatyka"
+
+#: INIMECH_006
+msgid "Lines - hydraulics and pneumatics"
+msgstr "Linie i przewody"
+
+#: INIMECH_004
+msgid "Marks"
+msgstr "Symbole i oznaczenia"
+
+#: INIMECH_007
+msgctxt "INIMECH_007"
+msgid "Joints symbols"
+msgstr "Oznaczenia połączeń"
+
+#: INIMECH_008
+msgctxt "INIMECH_008"
+msgid "Welds views"
+msgstr "Widoki spoin"
+
+#: INIMECH_009
+msgctxt "INIMECH_009"
+msgid "Surface roughness"
+msgstr "Chropowatość powierzchni"
+
+#: INIMECH_010
+msgctxt "INIMECH_010"
+msgid "Tolerance"
+msgstr "Tolerancja"
+
+#: INIMECH_011
+msgctxt "INIMECH_011"
+msgid "Additional"
+msgstr "Oznaczenia dodatkowe"
+
+#: INIMECH_012
+msgctxt "INIMECH_012"
+msgid "Edges of undefined shape"
+msgstr "Oznaczenie krawędzi"
+
+#: INIMECH_013
+msgctxt "INIMECH_013"
+msgid "Projection methods"
+msgstr "Metody rzutowania"
+
+#: INIMECH_014
+msgctxt "INIMECH_014"
+msgid "Measuring points"
+msgstr "Punkty pomiarowe"
+
+#: INIMECH_015
+msgctxt "INIMECH_015"
+msgid "Centre hole"
+msgstr "Nakiełek"
+
+#: INIMECH_016
+msgctxt "INIMECH_016"
+msgid "Symmetry"
+msgstr "Symetria"
+
+#: INIMECH_017
+msgctxt "INIMECH_017"
+msgid "Cone"
+msgstr "Stożek"
+
+#: INIMECH_018
+msgctxt "INIMECH_018"
+msgid "Cross-sections"
+msgstr "Przekroje"
+
+#: INIMECH_019
+msgctxt "INIMECH_019"
+msgid "Break lines"
+msgstr "Linie przerwania"
+
+#: INIMECH_020
+msgctxt "INIMECH_020"
+msgid "Fasteners"
+msgstr "Części złączne"
+
+#: INIMECH_021
+msgid "Fasteners - symbols"
+msgstr "Symbole cześci złącznych"
+
+#: INIMECH_022
+msgctxt "INIMECH_022"
+msgid "Holes"
+msgstr "Otwory"
+
+#: INIMECH_026
+msgctxt "INIMECH_026"
+msgid "Mechanical Standards, Shapes, Symbols"
+msgstr "Normalia, profile, oznaczenia"
+
+#: INIMECH_028
+msgctxt "INIMECH_028"
+msgid "Symbols, Signs"
+msgstr "Symbole, oznaczenia"
+
+#: INIMECH_027
+msgctxt "INIMECH_027"
+msgid "Hydraulics & Pneumatics"
+msgstr "Hydraulika i pneumatyka"
+
+#: Other
+msgctxt "Other"
+msgid "Other"
+msgstr "Inne"
+
+#: General
+msgid "General"
+msgstr "Ogólne"
+
+#: PN81N01613
+msgctxt "PN81N01613"
+msgid "Other"
+msgstr "PN-81/N-01613"
+
+#: PN83N01635
+msgctxt "PN83N01635"
+msgid "Other"
+msgstr "PN-83/N-01635"
+
+#: DIN407
+msgid "DIN 407"
+msgstr "DIN 407"
+
+#: Hole
+msgid "Hole"
+msgstr "Otwór"
+
+#: Rivet
+msgid "Rivet"
+msgstr "Nit"
+
+#: MAPP_0001
+msgid "Flanges"
+msgstr "Kołnierze"
+
+#: MAPP_0002
+msgid "Welding neck flanges"
+msgstr "Kołnierz szyjkowy"
+
+#: MAPP_0003
+msgid "Welding neck flanges ANSI %slb/sq.in. Up to 12''"
+msgstr "Kołnierz ANSI %slb/sq.in. grubość ścianki mniejsza 19"
+
+#: MAPP_0004
+msgid "Welding neck flanges ANSI %slb/sq.in. Over 12''"
+msgstr "Kołnierz ANSI %slb/sq.in. grubość ścianki większa 19"
+
+#: MAPP_0005
+msgid "Blind flange"
+msgstr "Kołnierz zaślepiający"
+
+#: MAPP_0006
+msgid "Flat flange for welding"
+msgstr "Kołnierz płaski do przyspawania"
+
+#: MAPP_0007
+msgid "Lapped flanges Plain collars"
+msgstr "Kołnierz oporowy"
+
+#: MAPP_0008
+msgid "Welding Flanges for Pressure Vessels"
+msgstr "Kołnierz"
+
+#: MAPP_0009
+msgid "Dished endsfrom 29.6 to 1150"
+msgstr "Dennice staloweod 29.6 do 1150"
+
+#: MAPP_0010
+msgid "Torospherical dished ends"
+msgstr "Dennica stalowa"
+
+#: MAPP_0011
+msgid "Dished endsfrom 1200 to 4000"
+msgstr "Dennice staloweod 1200 do 4000"
+
+#: MAPP_0012
+msgid "Steel butt-welding pipe fittings"
+msgstr "Kształtki"
+
+#: MAPP_0013
+msgid "Elbow"
+msgstr "Kolano"
+
+#: MAPP_0014
+msgid "Tee DIN 2615 style"
+msgstr "Trójnik DIN 2615 wykonanie"
+
+#: MAPP_0015
+msgid "Eccentric reducer with reduced pressure factor"
+msgstr "Redukcja"
+
+#: MAPP_0016
+msgid "Steel pipes"
+msgstr "Rury stalowe"
+
+#: MAPP_0017
+msgid "Stainless steel pipe, with thread"
+msgstr "Rura stalowa ze szwem, gwintowana"
+
+#: MAPP_0018
+msgid "Stainless steel pipe"
+msgstr "Rura stalowa"
+
+#: MAPP_0019
+msgid "Non-alloy steel pipe"
+msgstr "Rura stalowa bez szwu do zastosowań ciśnieniowych"
+
+#: MAPP_0020
+msgid "Seamless steel pipe for pressure purposes"
+msgstr "Rura ze stali niestopowej do transportu płynów wodnych"
+
+#: MAPP_0021
+msgid "Heat exchangers"
+msgstr "Wymienniki"
+
+#: MAPP_0022
+msgid "Heat exchanger"
+msgstr "Wymiennik"
+
+#: MAPP_0023
+msgid "beams"
+msgstr "wiązki"
+
+#: MAPP_0024
+msgid "beams (crosswise)"
+msgstr "wiązki (na krzyż)"
+
+#: MAPP_0025
+msgid "beams (parallel)"
+msgstr "wiązki (równolegle)"
+
+#: MAPP_0026
+msgid "Variable number of pipes - &N"
+msgstr "Zmienna ilość rurek - &N"
+
+#: MAPP_0027
+msgid "Flat flange"
+msgstr "Kołnierz płaski"
+
+#: MAPP_0028
+msgid "Loose plate flanges with weld-on plate collar"
+msgstr "Kołnierz płaski luźny do pierścienia płaskiego"
+
+#: MAPP_0029
+msgid "Loose plate flanges with weld-neck collar"
+msgstr "Kołnierz płaski luźny do pierścienia z szyjką"
+
+#: MAPP_0030
+msgid "Hubbed slip-on flanges"
+msgstr "Kołnierz tulejowy nasuwany"
+
+#: MAPP_0031
+msgid "Hubbed threaded flanges"
+msgstr "Kołnierz tulejowy gwintowany"
+
+#: MAPP_0032
+msgid "Oval flanges"
+msgstr "Kołnierz owalny"
+
+#: MNOR_0001
+msgid "Bolts"
+msgstr "Śruby"
+
+#: MNOR_0002
+msgid "Hexagon head bolt - Product grade A and B"
+msgstr "Śruba z łbem sześciokątnym klasa A i B"
+
+#: MNOR_0003
+msgctxt "MNOR_0003"
+msgid "#NIL"
+msgstr "Śruba z łbem sześciokątnym - uzupełnienie wg PN-85/M-82101"
+
+#: MNOR_0004
+msgid "Hexagon head bolt - Product grade"
+msgstr "Śruba z łbem sześciokątnym klasa"
+
+#: MNOR_0005
+msgid "Hexagon head bolt - Product grade B - Reduced shank"
+msgstr "Śruba z łbem sześciokątnym z trzpieniem zmniejszonym"
+
+#: MNOR_0006
+msgid "Hexagon socket head cap screw"
+msgstr "Śruba z łbem walcowym z gniazdem sześciokątnym"
+
+#: MNOR_0007
+msgid "Square head bolt"
+msgstr "Śruba z łbem kwadratowym"
+
+#: MNOR_0008
+msgid "Square head bolt with collar"
+msgstr "Śruba z łbem kwadratowym wieńcowym"
+
+#: MNOR_0009
+msgid "Knurled thumb screw with low head"
+msgstr "Śruba z łbem radełkowym niskim"
+
+#: MNOR_0010
+msgid "Knurled thumb screw with high head"
+msgstr "Śruba z łbem radełkowym wysokim"
+
+#: MNOR_0011
+msgid "Countersunk flat niob bolt with cross recess"
+msgstr "Śruba z łbem stożkowym soczewkowym z wgłębieniem krzyżowym"
+
+#: MNOR_0012
+msgid "Slotted raised countersunk head screw"
+msgstr "Śruba z łbem stożkowym soczewkowym z rowkiem"
+
+#: MNOR_0013
+msgid "Countersunk raised head screw - with type"
+msgstr "Śruba z łbem stożkowym z wgłębieniem krzyżowym - typ"
+
+#: MNOR_0014
+msgid "Slotted countersunk flat head screw"
+msgstr "Śruba z łbem stożkowym płaskim z rowkiem"
+
+#: MNOR_0015
+msgid "Round head niob bolt"
+msgstr "Śruba z łbem stożkowym z noskiem"
+
+#: MNOR_N015
+msgid "Cup nibbed head bolt"
+msgstr "Śruba z łbem kulistym z noskiem"
+
+#: MNOR_0016
+msgid "Eye bolt threaded up to the head - style"
+msgstr "Śruba oczkowa z gwintem na całej długości odmiana"
+
+#: MNOR_0017
+msgid "Eye bolt - style"
+msgstr "Śruba oczkowa odmiana"
+
+#: MNOR_0018
+msgid "Slotted set screw with cone point"
+msgstr "Śruba bez łba z gwintem na całej długości z końcem stożkowym"
+
+#: MNOR_0019
+msgid "Hexagon socket set screw with Cup Point"
+msgstr "Śruba bez łba z gwintem na całej długości z rowkiem i końcem wgłębionym"
+
+#: MNOR_0020
+msgid "Hexagon socket set screw with Cone Point"
+msgstr "Śruba bez łba z gwintem na całej długości z rowkiem i końcem stożkowym"
+
+#: MNOR_0021
+msgid "Hexagon socket set screw with Flat Point"
+msgstr "Śruba bez łba z gwintem na całej długości z rowkiem i końcem ściętym"
+
+#: MNOR_0022
+msgid "Hexagon socket set screw with Dog Point"
+msgstr "Śruba bez łba z gwintem na całej długości z rowkiem i czopem walcowym"
+
+#: MNOR_0023
+msgid "Hexagon fit bolt with long threaded portion"
+msgstr "Śruba pasowana ze łbem sześciokątnym z gwintem długim"
+
+#: MNOR_0024
+msgid "Hexagon fit bolt with short threaded portion"
+msgstr "Śruba pasowana ze łbem sześciokątnym z gwintem krótkim"
+
+#: MNOR_0025
+msgid "Square head set screw with cone point"
+msgstr "Śruba dociskowa z łbem kwadratowym z końcem stożkowym"
+
+#: MNOR_0026
+msgid "Lifting eye bolt"
+msgstr "Śruba z uchem"
+
+#: MNOR_0027
+msgid "OtherFibro"
+msgstr "InneFibro"
+
+#: MNOR_0028
+msgid "Spring-,Fit- and Spacer Units 244.16"
+msgstr "Śruba"
+
+#: MNOR_0029
+msgid "Shoulder screws 244.17"
+msgstr "Śruba"
+
+#: MNOR_0030
+msgctxt "MNOR_0030"
+msgid "Screws"
+msgstr "Wkręty"
+
+#: MNOR_0031
+msgid "Slotted pan head screw - Product grade A"
+msgstr "Wkręt z łbem walcowanym zaokrąglonym z rowkiem. Klasa dokładności A"
+
+#: MNOR_0032
+msgid "Slotted cheese head screw - Product grade A"
+msgstr "Wkręt z łbem walcowanym z rowkiem. Klasa dokładności A"
+
+#: MNOR_0033
+msgid "Cross recessed raised countersunk (flat) head tapping screw"
+msgstr "Wkręt samogwintujący z łbem stożkowym, z wgłębieniem krzyżowym"
+
+#: MNOR_0034
+msgid "Cross recessed raised countersunk (oval) head tapping screw"
+msgstr "Wkręt samogwintujący z łbem stożkowym soczewkowym, z wgłębieniem krzyżowym"
+
+#: MNOR_0035
+msgid "Slotted raised countersunk (oval) head tapping screw (common head style)"
+msgstr "Wkręt samogwintujący z łbem stożkowym soczewkowym, z rowkiem"
+
+#: MNOR_0036
+msgid "Hexagon head tapping screw"
+msgstr "Wkręt samogwintujący z łbem sześciokątnym"
+
+#: MNOR_0037
+msgid "Hexagon flange head tapping screw"
+msgstr "Wkręt samogwintujący do blach ze łbem sześciokątnym z kołnierzem stożkowym"
+
+#: MNOR_0038
+msgid "Slotted pan head tapping screw"
+msgstr "Wkręt samogwintujący z łbem walcowym z rowkiem"
+
+#: MNOR_0039
+msgid "Slotted countersunk (flat) head tapping screw (common head style)"
+msgstr "Wkręt samogwintujący z łbem stożkowym z rowkiem"
+
+#: MNOR_0040
+msgid "#NIL Wkręt do drewna ze łbem kulistym"
+msgstr "Wkręt do drewna ze łbem kulistym"
+
+#: MNOR_0041
+msgid "Nuts"
+msgstr "Nakrętki"
+
+#: MNOR_0042
+msgid "Hexagon nut, style 1 - Product grade A and B"
+msgstr "Nakrętka sześciokątna, odmiana 1. Klasy dokładności A i B"
+
+#: MNOR_0043
+msgid "Hexagon nut - Product grade C"
+msgstr "Nakrętka sześciokątna. Klasa dokładności C"
+
+#: MNOR_0044
+msgid "Hexagon nut, style 1, with metric fine pitch thread - Product grade A and B"
+msgstr "Nakrętka sześciokątna, odmiana 1, z gwintem metrycznym drobnozwojnym. kl A i B"
+
+#: MNOR_0045
+msgid "Hexagon thin nut (chamfered) -- Product grade A and B"
+msgstr "Nakrętka sześciokątna niskie (ze ścięciem). Klasy dokładności A i B"
+
+#: MNOR_0046
+msgid "Hexagon thin nut (chamfered) with metric fine pitch thread-Product grade A "
+"and B"
+msgstr "Nakrętka sześciokątna niskie (ze ścięciem) z gwintem drobnozwojnym. Klasy A "
+"i B"
+
+#: MNOR_0047
+msgid "Hexagon high nut"
+msgstr "Nakrętka sześciokątna wysoka"
+
+#: MNOR_A047
+msgid "Hexagon connection nut - height 3 d"
+msgstr "Nakrętka sześciokątna wysoka 3d"
+
+#: MNOR_0048
+msgid "Prevailing torque type hexagon nut (with non-metallic insert), style 1,- "
+"Property class 6, 8 and 10"
+msgstr "Nakrętka sześciokątna samozabezpieczająca z wkładką niemetalową, z gwintem "
+"drobnozwojnym"
+
+#: MNOR_0049
+msgid "Prevailing torque type hexagon nut with flange (with non-metallic insert)- "
+"Product grade A and B"
+msgstr "Nakrętka sześciokątna z kołnierzem stożkowym samozabezpieczająca, z gwintem "
+"drobnozwojnym"
+
+#: MNOR_0050
+msgid "Square nut - type"
+msgstr "Nakrętka kwadratowa - odmiana"
+
+#: MNOR_0051
+msgid "Knurled thin nut"
+msgstr "Nakrętka radełkowa niska"
+
+#: MNOR_0052
+msgid "Knurled high nut"
+msgstr "Nakrętka radełkowa wysoka"
+
+#: MNOR_0053
+msgid "Hexagon sloted and castle nut - type"
+msgstr "Nakrętka koronowa rodzaj"
+
+#: MNOR_0054
+msgid "Thin hexagon castle nut, Sloted and Castle nut - type"
+msgstr "Nakrętka koronowa niskie rodzaj"
+
+#: MNOR_0055
+msgid "Hexagon cap nut"
+msgstr "Nakrętka ślepa"
+
+#: MNOR_0056
+msgid "Hexagon domed cap nut"
+msgstr "Nakrętka kołpakowa"
+
+#: MNOR_0057
+msgid "Washers"
+msgstr "Podkładki"
+
+#: MNOR_0058
+msgid "Plain washer - Normal series - Product grade"
+msgstr "Podkładka okrągła - Szereg normalny - Klasa dokładności"
+
+#: MNOR_0059
+msgid "Plain washer, chamfered - Normal series - Product grade A"
+msgstr "Podkładka okrągła ścięte - Szereg normalny - Klasa dokładności A"
+
+#: MNOR_0060
+msgid "Plain washer - Large series -- Part 1: Product grade A"
+msgstr "Podkładka okrągła - Szereg duży - Część 1: Klasa dokładności A"
+
+#: MNOR_0061
+msgid "Plain washer - Large series -- Part 2: Product grade C"
+msgstr "Podkładka okrągła. Szereg duży. Część 2: Klasa dokładności C"
+
+#: MNOR_0062
+msgid "Plain washer - Extra large series -- Product grade C"
+msgstr "Podkładka okrągła. Szereg bardzo duży. Klasa dokładności C"
+
+#: MNOR_0063
+msgid "Plain washer - Small series - Product grade A"
+msgstr "Podkładka okrągła - Szereg mały - Klasa dokładności A"
+
+#: MNOR_0064
+msgid "Spring lock washer"
+msgstr "Podkładka sprężysta zwykła"
+
+#: MNOR_0065
+msgid "Spring lock washer light"
+msgstr "Podkładka sprężysta lekka"
+
+#: MNOR_0066
+msgid "Toothed lock washer with internal teeth"
+msgstr "Podkładka sprężysta ząbkowana wewnętrznie"
+
+#: MNOR_0067
+msgid "Toothed lock washer with external teeth"
+msgstr "Podkładka sprężysta ząbkowana zewnętrznie"
+
+#: MNOR_0068
+msgid "Square washer for wood construction"
+msgstr "Podkładka kwadratowa w konstrukcjach drewnianych"
+
+#: MNOR_0069
+msgid "Square taper washer for U-section 8%"
+msgstr "Podkładka klinowa do ceowników"
+
+#: MNOR_0070
+msgid "Square taper washer for I-section 14%"
+msgstr "Podkładka klinowa do dwuteowników"
+
+#: MNOR_0071
+msgid "Conical spring washer"
+msgstr "Podkładka stożkowa"
+
+#: MNOR_0072
+msgid "Spherical washer"
+msgstr "Podkładka kulista"
+
+#: MNOR_0073
+msgid "Countersinks"
+msgstr "Nawiercenia pod łby śrub i wkrętów"
+
+#: MNOR_0074
+msgid "Countersink for hexagon socket head bolt"
+msgstr "Nawiercenie pod łeb śruby z łbem walcowym z gniazdem sześciokątnym"
+
+#: MNOR_0075
+msgid "Countersinks for square head bolts with collar"
+msgstr "Nawiercenie pod łeb śruby z łbem kwadratowym wieńcowym"
+
+#: MNOR_0076
+msgid "Countersink for slotted pan head screws"
+msgstr "Nawiercenie pod łeb wkręta z łbem walcowym"
+
+#: MNOR_0077
+msgid "Countersink for countersunk head screws"
+msgstr "Nawiercenie pod łeb wkręta z łbem stożkowym"
+
+#: MNOR_0079
+msgid "Holes - (through) for screws and bolts"
+msgstr "Otwory przejściowe dla śrub i wkrętów"
+
+#: MNOR_0080
+msgid "Hole - high quality"
+msgstr "Otwór - Klasa dokładna"
+
+#: MNOR_0081
+msgid "Hole - medium quality"
+msgstr "Otwór - Klasa średnio dokładna"
+
+#: MNOR_0082
+msgid "Hole - low quality"
+msgstr "Otwór - Klasa zgrubna"
+
+#: MNOR_0083
+msgid "Taped holes"
+msgstr "Otwory gwintowane"
+
+#: MNOR_0084
+msgid "Taped hole - trough"
+msgstr "Otwór gwintowany przelotowy"
+
+#: MNOR_0085
+msgid "Taped hole - blind"
+msgstr "Otwór gwintowany nie przelotowy"
+
+#: MNOR_0086
+msgid "Screw Connection"
+msgstr "Połączenia"
+
+#: MNOR_0087
+msgid "Connection (Hexagon head bolt and nut)"
+msgstr "Połączenie (śruba z łbem sześciokątnym + nakrętka)"
+
+#: MNOR_0088
+msgid "Connection (Countersink + Hexagon socket head cap screw and nut)"
+msgstr "Połączenie (nawiercenie + śruba z łbem walcowym + nakrętka)"
+
+#: MNOR_0089
+msgid "Connection (Hexagon socket head cap screw + nut)"
+msgstr "Połączenie (śruba z łbem walcowym + nakrętka)"
+
+#: MNOR_0090
+msgid "Pins"
+msgstr "Kołki"
+
+#: MNOR_0091
+msgid "Parallel pin"
+msgstr "Kołek walcowy"
+
+#: MNOR_0092
+msgid "Taper pin"
+msgstr "Kołek stożkowy"
+
+#: MNOR_0093
+msgid "#NIL Kołek walcowy do roznitowania"
+msgstr "Kołek walcowy do roznitowania"
+
+#: MNOR_0094
+msgid "#NIL Kołek walcowy do roznitowania wykonanie dopuszczalne"
+msgstr "Kołek walcowy do roznitowania wykonanie dopuszczalne"
+
+#: MNOR_0095
+msgid "Parallel pins with internal thread"
+msgstr "Kołek walcowy z gwintem wewnętrznym"
+
+#: MNOR_0096
+msgid "Taper pin with internal thread, ground"
+msgstr "Kołek stożkowy z gwintem wewnętrznym niehartowane"
+
+#: MNOR_0097
+msgid "Grooved pin - Half-length centre grooved"
+msgstr "Kołek z karbem na połowie długości w środkowej części"
+
+#: MNOR_0098
+msgid "Grooved pin - Full-length taper grooved"
+msgstr "Kołek z karbem zbieżnym na całej długości"
+
+#: MNOR_0099
+msgid "Grooved pin - Half-length taper grooved"
+msgstr "Kołek z karbem zbieżnym na połowie długości"
+
+#: MNOR_0100
+msgid "Grooved pin - Half-length reverse-taper grooved"
+msgstr "Kołek z karbem zbieżnym na połowie długości do czoła"
+
+#: MNOR_0101
+msgid "Grooved pin - One-third-length centre grooved"
+msgstr "Kołek z karbem zbieżnym w środkowej części na 1/3 długości"
+
+#: MNOR_0102
+msgid "Grooved pin - Full-length parallel grooved, with pilot"
+msgstr "Kołek z karbem równoległym na całej długości, z pilotem"
+
+#: MNOR_0103
+msgid "Grooved pin - Full-length parallel grooved, with chamfer"
+msgstr "Kołek z karbem równoległym na całej długości, ze ścięciem"
+
+#: MNOR_0104
+msgid "Spring-type straight pin -- Slotted, heavy duty"
+msgstr "Kołek sprężysty rozcięty wzmocniony"
+
+#: MNOR_0105
+msgid "Spring-type straight pin -- Coiled, standard duty"
+msgstr "Kołek sprężysty zwijany zwykły"
+
+#: MNOR_0106
+msgid "Parallel keys"
+msgstr "Wpusty pryzmatyczne"
+
+#: MNOR_0107
+msgid "Parallel key with round end"
+msgstr "Wpust pryzmatyczny zaokrąglony pełny"
+
+#: MNOR_0108
+msgid "Parallel key with chamfer"
+msgstr "Wpust pryzmatyczny ścięty pełny"
+
+#: MNOR_0109
+msgid "Parallel key with half-length centre hole"
+msgstr "Wpust pryzmatyczny zaokrąglony jednootworowy"
+
+#: MNOR_0110
+msgid "Parallel key with chamfer, half-length centre hole"
+msgstr "Wpust pryzmatyczny ścięty jednootworowy"
+
+#: MNOR_0111
+msgid "Parallel key with round end, double holes"
+msgstr "Wpust pryzmatyczny zaokrąglony dwuotworowy"
+
+#: MNOR_0112
+msgid "Parallel key with chamfer, double holes"
+msgstr "Wpust pryzmatyczny ścięty dwuotworowy"
+
+#: MNOR_0113
+msgid "Parallel key with round end (one end)"
+msgstr "Wpust pryzmatyczny pełny zaokrąglony jednostronnie"
+
+#: MNOR_0114
+msgid "Parallel key with round end (friction-fit)"
+msgstr "Wpust pryzmatyczny zaokrąglony pełny wyciskowy"
+
+#: MNOR_0115
+msgid "Parallel key with round end, double holes (friction-fit)"
+msgstr "Wpust pryzmatyczny zaokrąglony dwuotworowy wyciskowy"
+
+#: MNOR_0116
+msgid "Parallel key with chamfer double holes (friction-fit)"
+msgstr "Wpust pryzmatyczny ścięty dwuotworowy wyciskowy"
+
+#: MNOR_0117
+msgid "Parallel key with chamfer (high)"
+msgstr "Wpust pryzmatyczny wysoki ścięty pełny"
+
+#: MNOR_0118
+msgid "Parallel key with round end (both ends) (high)"
+msgstr "Wpust pryzmatyczny wysoki zaokrąglony pełny"
+
+#: MNOR_0119
+msgid "Parallel key with round end (one end) (high)"
+msgstr "Wpust pryzmatyczny wysoki pełny zaokrąglony jednostronnie"
+
+#: MNOR_0120
+msgid "Parallel key with chamfer (low)"
+msgstr "Wpust pryzmatyczny niski ścięty pełny"
+
+#: MNOR_0121
+msgid "Parallel key with round ends (both ends) (low)"
+msgstr "Wpust pryzmatyczny niski zaokrąglony pełny"
+
+#: MNOR_0122
+msgid "Parallel key with round end, half-length centre hole (low)"
+msgstr "Wpust niski zaokrąglony jednootworowy"
+
+#: MNOR_0123
+msgid "Parallel key with round end (one end) (low)"
+msgstr "Wpust pryzmatyczny niski pełny zaokrąglony jednostronnie"
+
+#: MNOR_0124
+msgid "Keys"
+msgstr "Kliny"
+
+#: MNOR_0125
+msgid "Round ends Taper Key (both ends)"
+msgstr "Klin wpuszczany zaokrąglony"
+
+#: MNOR_0126
+msgid "Taper key with chamfer"
+msgstr "Klin wpuszczany ścięty"
+
+#: MNOR_0127
+msgid "Round end Taper Key (one end)"
+msgstr "Klin wpuszczany zaokrąglony jednostronnie"
+
+#: MNOR_0128
+msgid "Taper key with gib head"
+msgstr "Klin wpuszczany noskowy"
+
+#: MNOR_0129
+msgid "Round ends flat key (both ends)"
+msgstr "Klin płaski zaokrąglony"
+
+#: MNOR_0130
+msgid "Flat key with chamfer"
+msgstr "Klin płaski ścięty"
+
+#: MNOR_0131
+msgid "Round end plain key (one end)"
+msgstr "Klin płaski zaokrąglony jednostronnie"
+
+#: MNOR_0132
+msgid "Plain key with gib head"
+msgstr "Klin płaski noskowy"
+
+#: MNOR_0133
+msgid "#NIL Klin wklęsły zaokrąglony"
+msgstr "Klin wklęsły zaokrąglony"
+
+#: MNOR_0134
+msgid "#NIL Klin wklęsły ścięty"
+msgstr "Klin wklęsły ścięty"
+
+#: MNOR_0135
+msgid "#NIL Klin wklęsły zaokrąglony jednostronnie"
+msgstr "Klin wklęsły zaokrąglony jednostronnie"
+
+#: MNOR_0136
+msgid "#NIL Klin wklęsły noskowy"
+msgstr "Klin wklęsły noskowy"
+
+#: MNOR_0137
+msgctxt "MNOR_0137"
+msgid "Rivets"
+msgstr "Nity"
+
+#: MNOR_0138
+msgid "Plain rivet"
+msgstr "Nit z łbem kulistym"
+
+#: MNOR_0139
+msgid "Countersunk head rivet"
+msgstr "Nit z łbem płaskim"
+
+#: MNOR_0140
+msgid "Mushroom head rivet"
+msgstr "Nit z łbem soczewkowym zwykłym"
+
+#: MNOR_0141
+msgid "Flat round head rivet"
+msgstr "Nit z łbem grzybkowym"
+
+#: MNOR_0142
+msgid "Tubular rivet flat head"
+msgstr "Nit rurkowy z łbem płaskim"
+
+#: MNOR_0143
+msgid "Tubular rivet round head"
+msgstr "Nit rurkowy z łbem wywiniętym"
+
+#: MNOR_N143
+msgid "Blind rivet flat head"
+msgstr "Nit zrywalny z łbem płaskim"
+
+#: MNOR_M143
+msgid "Blind rivet countersunk"
+msgstr "Nit zrywalny z łbem stożkowym"
+
+#: MNOR_0144
+msgid "Rolling bearings"
+msgstr "Łożyska"
+
+#: MNOR_0145
+msgid "Single row deep groove ball bearing"
+msgstr "Łożysko kulkowe z otworem walcowym"
+
+#: MNOR_0146
+msgid "Ball bearing with one shield"
+msgstr "Łożysko kulkowe z blaszką ochronną"
+
+#: MNOR_0147
+msgid "Ball bearing with two shields"
+msgstr "Łożysko kulkowe z dwiema blaszkami ochronnymi"
+
+#: MNOR_0148
+msgid "Ball bearing with one rubber seal"
+msgstr "Łożysko kulkowe z uszczelką gumową"
+
+#: MNOR_0149
+msgid "Ball bearing with two rubber seals"
+msgstr "Łożysko kulkowe z dwiema uszczelkami gumowymi"
+
+#: MNOR_0150
+msgid "#NIL Ball Bearing with snap ring groove on outer ring"
+msgstr "Łożysko kulkowe z rowkiem na pierścieniu zewnętrznym"
+
+#: MNOR_0151
+msgid "#NIL Łożysko kulkowe z rowkiem na pierścieniu zewnętrznym i blaszkami "
+"ochronnymi"
+msgstr "#NIL Łożysko kulkowe z rowkiem na pierścieniu zewnętrznym i blaszkami "
+"ochronnymi"
+
+#: MNOR_0152
+msgid "Ball bearing with tapered bore"
+msgstr "Łożysko kulkowe z otworem stożkowym"
+
+#: MNOR_0153
+msgid "Thrust ball bearing with snap ring groove on outer ring"
+msgstr "Łożysko kulkowe wzdłużne z kulistym pierścieniem zewnętrznym bez podkładki"
+
+#: MNOR_0154
+msgid "Thrust ball bearing with snap ring groove on outer ring and washer"
+msgstr "Łożysko kulkowe wzdłużne z kulistym pierścieniem zewnętrznym z podkładki"
+
+#: MNOR_0155
+msgid "Angular contact ball bearing - Single-direction - 72 i 73 catalogue"
+msgstr "Łożysko kulkowe skośne jednorzędowe jednokierunkowe seria 72 i 73"
+
+#: MNOR_0156
+msgid "Angular contact ball bearing - Single-direction - A70, A72 and A73 catalogue"
+msgstr "Łożysko kulkowe skośne jednorzędowe jednokierunkowe seria A70, A72 i A73"
+
+#: MNOR_0157
+msgid "Angular contact ball bearing - Single-direction - catalogue"
+msgstr "Łożysko kulkowe skośne jednorzędowe jednokierunkowe seria B719,B70,B72 i B73"
+
+#: MNOR_0158
+msgid "Angular contact ball bearing - Dual directions - catalogue"
+msgstr "Łożysko kulkowe skośne jednorzędowe dwukierunkowe seria Q10,Q2 i Q3"
+
+#: MNOR_0159
+msgid "Angular contact ball bearing - Dual directions - QJ19, QJ10, QJ2 and QJ3 "
+"catalogue"
+msgstr "Łożysko kulkowe skośne jednorzędowe dwukierunkowe seria QJ19,QJ10,QJ2 i QJ3"
+
+#: MNOR_0160
+msgid "Angular contact ball bearing - Dual directions"
+msgstr "Łożysko kulkowe skośne jednorzędowe dwukierunkowe dwurzędowe"
+
+#: MNOR_0161
+msgid "Self-aligning ball bearing"
+msgstr "Łożysko kulkowe wahliwe z otworem walcowym"
+
+#: MNOR_0162
+msgid "Self-aligning ball bearing with tapered bore"
+msgstr "Łożysko kulkowe wahliwe z otworem stożkowym"
+
+#: MNOR_0163
+msgid "#NIL open bearings with an extended inner ring"
+msgstr "#NIL Łożysko kulkowe wahliwe z otworem stożkowym i z tuleją wyciąganą"
+
+#: MNOR_0164
+msgid "Single row cylindrical roller bearing"
+msgstr "Łożysko walcowe z pierścieniem wewnętrznym bez obrzeży"
+
+#: MNOR_0165
+msgid "Single row cylindrical roller bearing NJ design"
+msgstr "Łożysko walcowe z pierścieniem wewnętrznym z jednym obrzeżem"
+
+#: MNOR_0166
+msgid "Single row cylindrical roller bearing N design"
+msgstr "Łożysko walcowe z pierścieniem zewnętrznym bez obrzeży"
+
+#: MNOR_0167
+msgid "#NIL Łożysko walcowe z pierścieniem wewnętrznym bez obrzeży i z pierścieniem "
+"kątowym"
+msgstr "#NIL Łożysko walcowe z pierścieniem wewnętrznym bez obrzeży i z pierścieniem "
+"kątowym"
+
+#: MNOR_0168
+msgid "#NIL Łożysko walcowe z pierścieniem wewnętrznym z obrzeżą i z pierścieniem "
+"kątowym"
+msgstr "#NIL Łożysko walcowe z pierścieniem wewnętrznym z obrzeżą i z pierścieniem "
+"kątowym"
+
+#: MNOR_0169
+msgid "Single row cylindrical roller bearings NUP design"
+msgstr "Łożysko walcowe z pierścieniem wewnętrznym z obrzeżą i z pierścieniem "
+"bocznym"
+
+#: MNOR_0170
+msgid "Cylindrical roller bearings without inner ring RN design"
+msgstr "Łożysko walcowe bez pierścienia wewnętrznego"
+
+#: MNOR_0171
+msgid "Single row thrust cylindrical bearing"
+msgstr "Łożysko walcowe wzdłużne jednorzędowe"
+
+#: MNOR_0172
+msgid "Double row thrust cylindrical bearing"
+msgstr "Łożysko walcowe wzdłużne dwurzędowe"
+
+#: MNOR_0173
+msgid "Double row full complement cylindrical roller bearing NNU49 design"
+msgstr "Łożysko walcowe dwurzędowe z otworem walcowym seria NNU49"
+
+#: MNOR_0174
+msgid "Double row full complement cylindrical roller bearing NNU49K design"
+msgstr "Łożysko walcowe dwurzędowe z otworem stożkowym seria NNU49K"
+
+#: MNOR_0175
+msgid "Double row full complement cylindrical roller bearing NN30 design"
+msgstr "Łożysko walcowe dwurzędowe z otworem walcowym seria NN30"
+
+#: MNOR_0176
+msgid "Double row full complement cylindrical roller bearing NN30K design"
+msgstr "Łożysko walcowe dwurzędowe z otworem stożkowym seria NN30K"
+
+#: MNOR_0177
+msgid "Multi-row cylindrical roller bearing, caged"
+msgstr "Łożysko walcowe wielorzędowe z koszykiem"
+
+#: MNOR_0178
+msgid "Multi-row cylindrical roller bearing, without cage"
+msgstr "Łożysko walcowe wielorzędowe bez koszyka"
+
+#: MNOR_0179
+msgid "Double row tapered roller bearing"
+msgstr "Łożysko baryłkowe dwurzędowe z otworem walcowym"
+
+#: MNOR_0180
+msgid "Double row tapered roller bearing with tapered bore"
+msgstr "Łożysko baryłkowe dwurzędowe z otworem stożkowym"
+
+#: MNOR_0181
+msgid "Double row tapered roller bearing with tapered bore with pull inner ring"
+msgstr "Łożysko baryłkowe dwurzędowe z otworem stożkowym z tuleją wyciąganą"
+
+#: MNOR_0182
+msgid "#NIL Łożysko baryłkowe dwurzędowe z otworem stożkowym z tuleją wciskaną"
+msgstr "#NIL Łożysko baryłkowe dwurzędowe z otworem stożkowym z tuleją wciskaną"
+
+#: MNOR_0183
+msgid "#NIL Łożysko baryłkowe dwurzędowe z rowkiem i otworami smarowniczymi"
+msgstr "#NIL Łożysko baryłkowe dwurzędowe z rowkiem i otworami smarowniczymi"
+
+#: MNOR_0184
+msgid "#NIL Łożysko baryłkowe wzdłużne z koszykiem blaszanym stalowym"
+msgstr "#NIL Łożysko baryłkowe wzdłużne z koszykiem blaszanym stalowym"
+
+#: MNOR_0185
+msgid "Needle roller thrust bearing with trough inner ring, caged"
+msgstr "Łożysko igiełkowe cienkościenne z pierścieniem przelotowym, z koszykiem"
+
+#: MNOR_0186
+msgid "Needle roller thrust bearing with blind inner ring, caged"
+msgstr "Łożysko igiełkowe cienkościenne z pierścieniem nieprzelotowym, z koszykiem"
+
+#: MNOR_0187
+msgid "Needle roller thrust bearing with trough inner ring, without cage"
+msgstr "Łożysko igiełkowe cienkościenne z pierścieniem przelotowym, bez koszyka"
+
+#: MNOR_0188
+msgid "Needle roller thrust bearing with blind inner ring, without cage"
+msgstr "Łożysko igiełkowe cienkościenne z pierścieniem nieprzelotowym, bez koszyka"
+
+#: MNOR_0189
+msgid "Tapered roller bearing - metric"
+msgstr "Łożysko stożkowe metryczne"
+
+#: MNOR_0190
+msgid "Clevis pins"
+msgstr "Sworznie"
+
+#: MNOR_0191
+msgid "Clevis pin with head and (with or without split pin hole)"
+msgstr "Sworzeń z łbem walcowym"
+
+#: MNOR_0192
+msgid "Clevis pin without head (with or without split pin hole)"
+msgstr "Sworzeń bez łba"
+
+#: MNOR_0193
+msgid "Split pin"
+msgstr "Zawleczki"
+
+#: MNOR_0194
+msgid "Screw plugs"
+msgstr "Korki gwintowe"
+
+#: MNOR_0195
+msgid "Hex head screw plug type A"
+msgstr "Korek gwintowy odmiana A"
+
+#: MNOR_0196
+msgid "Hex head screw plug type B"
+msgstr "Korek gwintowy odmiana B"
+
+#: MNOR_0197
+msgid "Lubricators"
+msgstr "Smarowniczki"
+
+#: MNOR_0198
+msgid "Lubricating nipple, cone type - tapered thread"
+msgstr "Smarowniczka kulkowa ciśnieniowa z główką stożkową - prosta z gwintem "
+"stożkowym"
+
+#: MNOR_0199
+msgid "Lubricating nipple, cone type - cylindrical thread"
+msgstr "Smarowniczka kulkowa ciśnieniowa z główką stożkową - prosta z gwintem "
+"walcowym"
+
+#: MNOR_0200
+msgid "Angle Lubricating nipple, cone type - tapered thread"
+msgstr "Smarowniczka kulkowa ciśnieniowa z główką stożkową - kątowa z gwintem "
+"stożkowym"
+
+#: MNOR_0201
+msgid "Angle Lubricating nipple, cone type - cylindrical thread"
+msgstr "Smarowniczka kulkowa ciśnieniowa z główką stożkową - kątowa z gwintem "
+"walcowym"
+
+#: MNOR_0259
+msgctxt "MNOR_0259"
+msgid "Holes"
+msgstr "Różne"
+
+#: MNOR_0260
+msgid "Connection"
+msgstr "Różne"
+
+#: MNOR_0334
+msgid "Hexagon fit bolt with long threaded portion (fine thread)"
+msgstr "Śruba pasowana ze łbem sześciokątnym z gwintem długim (Gwint drobnozwojny)"
+
+#: MNOR_0335
+msgid "Hexagon fit bolt with short threaded portion (fine thread)"
+msgstr "Śruba pasowana ze łbem sześciokątnym z gwintem krótkim (Gwint drobnozwojny)"
+
+#: MNOR_0336
+msgid "Lifting eye bolt (fine thread)"
+msgstr "Śruba z uchem (Gwint drobnozwojny)"
+
+#: MNOR_0337
+msgid "Plain washer for clevis pin -- Product grade A"
+msgstr "Podkładka okrągła do sworzni"
+
+#: MNOR_0339
+msgid "Wave spring washer"
+msgstr "Podkładka podatna falista"
+
+#: MNOR_0341
+msgid "Serrated lock washer"
+msgstr "Podkładka gwiazdkowa"
+
+#: MNOR_0342
+msgid "Plain washer, chamfered, hardened and tempered for high-strength structural "
+"bolting"
+msgstr "Podkładka do połączeń sprężanych"
+
+#: MNOR_0344
+msgid "Tabwasher with 1 tab"
+msgstr "Podkładka odginana jednołapkowa"
+
+#: MNOR_0346
+msgid "Tabwasher with 2 tabs"
+msgstr "Podkładka odginana dwułapkowa"
+
+#: MNOR_0348
+msgid "Shim ring"
+msgstr "Podkładka ustalająca"
+
+#: MNOR_0349
+msgid "Washer for steel constructions"
+msgstr "Podkładka do konstrukcji stalowych"
+
+#: MNOR_0350
+msgid "Spring lock washer for screws with cylindrical head"
+msgstr "Podkładka sprężysta"
+
+#: MNOR_0351
+msgid "Spring look washer, heavy duty"
+msgstr "Podkładka sprężysta"
+
+#: MNOR_0352
+msgid "Hexagon high nuts Hexagon high nuts with metric fine pitch thread"
+msgstr "Nakrętka sześciokątna wysoka z gwintem drobnozwojnym"
+
+#: MNOR_0354
+msgid "Fine thread"
+msgstr "Gwint drobnozwojny"
+
+#: MNOR_0355
+msgid "Standard thread"
+msgstr "Gwint zwykły"
+
+#: MNOR_0356
+msgid "Wing nut"
+msgstr "Nakrętka skrzydełkowa"
+
+#: MNOR_0358
+msgid "Lifting eye nut"
+msgstr "Nakrętka z uchem"
+
+#: MNOR_0360
+msgid "Hexagon nut 1,5d with collar"
+msgstr "Nakrętka 1,5d z kołnierzem"
+
+#: MNOR_0362
+msgid "Hexagon flange nut"
+msgstr "Nakrętka sześciokątna z kołnierzem stożkowym"
+
+#: MNOR_0364
+msgid "Hexagon flange nut with fine thread"
+msgstr "Nakrętka sześciokątna z kołnierzem stożkowym, z gwintem drobnozwojnym"
+
+#: MNOR_0369
+msgid "Prevailing torque type hexagon nut"
+msgstr "Nakrętka sześciokątna samozabezpieczająca"
+
+#: MNOR_0370
+msgid "Prevailing torque type hexagon nut with fine pitch thread"
+msgstr "Nakrętka sześciokątna samozabezpieczająca, z gwintem drobnozwojnym"
+
+#: MNOR_0371
+msgid "Hexagon head bolt"
+msgstr "Śruba z łbem sześciokątnym"
+
+#: MNOR_0372
+msgid "Hexagon head bolt, with fine pitch thread"
+msgstr "Śruba z łbem sześciokątnym, z gwintem drobnozwojnym"
+
+#: MNOR_0373
+msgid "Hexagon flange head bolt"
+msgstr "Śruba z łbem sześciokątnym kołnierzowa"
+
+#: MNOR_0374
+msgid "Hexagon socket countersunk head screw"
+msgstr "Śruba z łbem stożkowym z gniazdem sześciokątnym"
+
+#: GOST
+msgid "GOST"
+msgstr "GOST"
+
+#: MNOR_0375
+msgid "Shafting Collars"
+msgstr "Pierścienie osadcze"
+
+#: MNOR_0376
+msgid "External Retaining Ring"
+msgstr "Pierścień osadczy sprężynujący zewnętrzny"
+
+#: MNOR_0377
+msgid "Internal Retaining Ring"
+msgstr "Pierścień osadczy sprężynujący wewnętrzny"
+
+#: MNOR_0378
+msgid "Hexagon socket head shoulder screw"
+msgstr "Śruba pasowana z łbem walcowym"
+
+#: MNOR_0379
+msgid "Keyway on shaft"
+msgstr "Rowek pod wpust"
+
+#: MNOR_0380
+msgid "Circlip For Shafts"
+msgstr "Płytka osadcza sprężynująca"
+
+#: RHNA
+msgctxt "RHNA"
+msgid "#NIL"
+msgstr "RFNA"
+
+#: MNOR_0381
+msgid "Diameter Series %s, Width Series %s"
+msgstr "Średnica Serii %s, Seria Szerokości %s"
+
+#: MNOR_0382
+msgid "Diameter Series %s, Height Series %s"
+msgstr "Średnica Serii %s, Seria Wysokości %s"
+
+#: MNOR_0383
+msgid "Diameter Series %s"
+msgstr "Średnica Serii %s"
+
+#: MSTA_0001
+msgid "Steel Shapes"
+msgstr "Kształtowniki stalowe"
+
+#: MSTA_0002
+msgid "Flat steel bar (Hot rolled)"
+msgstr "Płaskownik walcowany na gorąco"
+
+#: MSTA_0003
+msgid "L-shape equal angles"
+msgstr "Kątownik równoramienny"
+
+#: MSTA_0004
+msgid "L-shape unequal angles"
+msgstr "Kątownik nierównoramienny"
+
+#: MSTA_0005
+msgid "U-shape (economic)"
+msgstr "Ceownik ekonomiczny"
+
+#: MSTA_0006
+msgid "U-shape (hot rolled)"
+msgstr "Ceownik stalowy walcowany na gorąco"
+
+#: MSTA_0007
+msgid "U-shape (yield strength over 490 MPa)"
+msgstr "Ceownik o Rm powyżej 490 MPa gięte na zimno"
+
+#: MSTA_0008
+msgid "T-shape (hot rolled)"
+msgstr "Teownik walcowany na gorąco"
+
+#: MSTA_0009
+msgid "Z-shape (yield strength over 490 MPa)"
+msgstr "Zetownik o Rm powyżej 490 MPa gięte na zimno"
+
+#: MSTA_0010
+msgid "Z-shape (yield strength up to 490 MPa)"
+msgstr "Zetownik o Rm do 490 MPa gięte na zimno"
+
+#: MSTA_0011
+msgid "H-shape (Hot-rolled parallel-flange steel IPE - Dimensions)"
+msgstr "Dwuteownik IPE walcowany na gorąco"
+
+#: MSTA_0012
+msgid "H-shape (Hot rolled wide-flange steel beams - Dimensions)"
+msgstr "Dwuteownik stalowy szerokostopowy walcowany na gorąco"
+
+#: MSTA_0013
+msgid "I-shape (Hot rolled)"
+msgstr "Dwuteownik walcowany na gorąco"
+
+#: MSTA_N001
+msgid "Hot rolled I-beams - Part 2 IPB-serie"
+msgstr "Dwuteownik walcowany na gorąco IPB"
+
+#: MSTA_N004
+msgid "Hot rolled I-beams - Part 3 IPBI-serie"
+msgstr "Dwuteownik walcowany na gorąco IPBI"
+
+#: MSTA_N002
+msgid "Hot rolled I-beams - Part 4 IPBv-serie"
+msgstr "Dwuteownik walcowany na gorąco IPBv"
+
+#: MSTA_N003
+msgid "Hot rolled I-beams - Part 5 IPE-serie"
+msgstr "Dwuteownik walcowany na gorąco IPE"
+
+#: MSTA_0014
+msgid "Welded square structural tubing (Cold formed welded structural hollow "
+"sections)"
+msgstr "Kształtownik zamknięty kwadratowy gięty na zimno BN"
+
+#: MSTA_0015
+msgid "Welded round structural tubing (Cold formed welded structural hollow "
+"sections)"
+msgstr "Kształtownik zamknięty okrągły gięty na zimno"
+
+#: MSTA_0016
+msgid "Welded rectangular structural tubing (Cold formed welded structural hollow "
+"sections)"
+msgstr "Kształtownik zamknięty prostokątny gięty na zimno"
+
+#: MSTA_0017
+msgid "Welded round structural tubing (For precision applications)"
+msgstr "Kształtownik zamknięty okrągły precyzyjny gięty na zimno"
+
+#: MSTA_0018
+msgid "Welded square structural tubing (For precision applications)"
+msgstr "Kształtownik zamknięty kwadratowy precyzyjny gięty na zimno"
+
+#: MSTA_0019
+msgid "Welded rectangular structural tubing (For precision applications)"
+msgstr "Kształtownik zamknięty prostokątny precyzyjny gięty na zimno"
+
+#: MSTA_0020
+msgid "Steel Bars"
+msgstr "Pręty stalowe"
+
+#: MSTA_0021
+msgid "Round stainless steel bar (Hot rolled)"
+msgstr "Pręt okrągły"
+
+#: MSTA_0022
+msgid "Square steel bar (Hot rolled)"
+msgstr "Pręt kwadratowy"
+
+#: MSTA_0023
+msgid "Hexagon steel bar (Hot rolled)"
+msgstr "Pręt sześciokątny"
+
+#: MSTA_0024
+msgid "Steel Rods"
+msgstr "Walcówka"
+
+#: MSTA_0025
+msgid "Round steel rod"
+msgstr "Walcówka okrągła"
+
+#: MSTA_0026
+msgid "Square steel rod"
+msgstr "Walcówka kwadratowa"
+
+#: MSTA_0027
+msgid "Rectangular steel rod"
+msgstr "Walcówka prostokątna"
+
+#: MSTA_0028
+msgid "Hexagon steel rod"
+msgstr "Walcówka sześciokątna"
+
+#: MSTA_0029
+msgid "Steel Tubes"
+msgstr "Rury stalowe"
+
+#: MSTA_0030
+msgid "Carbon steel tube suitable for screwing"
+msgstr "Rura stalowa ze szwem, gwintowana"
+
+#: MSTA_0031
+msgid "General-purpose seamless steel tube"
+msgstr "Rura stalowa bez szwu ciągniona i walcowana na zimno ogólnego przeznaczenia"
+
+#: MSTA_0032
+msgid "Seamless steel tube for pressure purposes"
+msgstr "Rura stalowa bez szwu do zastosowań ciśnieniowych"
+
+#: MSTA_0033
+msgid "Non-alloy steel tube for liquid purposes (including water)"
+msgstr "Rura ze stali niestopowej do transportu płynów wodnych"
+
+#: MSTA_0073
+msgid "W-shape"
+msgstr "Dwuteownik"
+
+#: MSTA_0075
+msgid "Aluminium Shapes"
+msgstr "Kształtowniki aluminiowe"
+
+#: MSTA_0076
+msgid "Hot Formed"
+msgstr "Gięty na gorąco"
+
+#: MSTA_0077
+msgid "Welded square structural tubing"
+msgstr "Kształtownik zamknięty kwadratowy"
+
+#: MSTA_0078
+msgid "Welded round structural tubing"
+msgstr "Kształtownik zamknięty okrągły"
+
+#: MSTA_0079
+msgid "Welded rectangular structural tubing"
+msgstr "Kształtownik zamknięty prostokątny"
+
+#: MLAY_0001
+msgid "Objects layer"
+msgstr "Warstwa obiektów"
+
+#: MLAY_0002
+msgid "Steel shapes layer"
+msgstr "Warstwa profile stalowe"
+
+#: MLAY_0003
+msgid "Rough. symbols layer"
+msgstr "Warstwa symboli chrop."
+
+#: MLAY_0004
+msgid "Symbols hydr. and pneum."
+msgstr "Symbole hydr. i pneum."
+
+#: MLAY_0005
+msgid "Hidden"
+msgstr "Ukrycia"
+
+#: MLAY_0006
+msgid "Details"
+msgstr "Detale"
+
+#: MLAY_0007
+msgid "Threads"
+msgstr "Gwinty"
+
+#: MLAY_0008
+msgid "Hatch"
+msgstr "Kreskowanie"
+
+#: MLAY_0009
+msgid "Axes"
+msgstr "Osie"
+
+#: MLAY_0010
+msgctxt "MLAY_0010"
+msgid "Dimensions"
+msgstr "Wymiary"
+
+#: MLAY_0011
+msgid "Textes"
+msgstr "Teksty"
+
+#: MMAI_0001
+msgctxt "MMAI_0001"
+msgid "Mechanical Standards, Shapes, Symbols"
+msgstr "Normalia, profile, oznaczenia"
+
+#: MMAI_0002
+msgid "Mechanical Standards"
+msgstr "Normalia"
+
+#: MMAI_0004
+msgctxt "MMAI_0004"
+msgid "Symbols, Signs"
+msgstr "Symbole, oznaczenia"
+
+#: MMAI_0005
+msgctxt "MMAI_0005"
+msgid "Hydraulics & Pneumatics"
+msgstr "Hydraulika i pneumatyka"
+
+#: MMAI_0006
+msgid "Symbols"
+msgstr "Symbole"
+
+#: MMAI_0007
+msgid "Ducts"
+msgstr "Przewody"
+
+#: MSYM_0000
+msgctxt "MSYM_0000"
+msgid "Surface roughness"
+msgstr "Chropowatość powierzchni"
+
+#: MSYM_0001
+msgid "Surface roughnessGeneral symbols roughness"
+msgstr "Chropowatość powierzchniZbiorcze oznaczenie chropowatości"
+
+#: MSYM_0002
+msgid "Without a numerical value"
+msgstr "Bez wartości liczbowej"
+
+#: MSYM_0003
+msgid "With a numerical value Ra"
+msgstr "Z wartością liczbową Ra"
+
+#: MSYM_0004
+msgid "With a numerical value Rz"
+msgstr "Z wartością liczbową Rz"
+
+#: MSYM_0005
+msgid "Surface roughnessObtained by take layers of material"
+msgstr "Chropowatość powierzchniUzyskana przez zdjęcie warstwy materiału"
+
+#: MSYM_0006
+msgid "Surface roughnessObtained without take layers of material"
+msgstr "Chropowatość powierzchniUzyskana bez zdjęcia warstwy materiału"
+
+#: MSYM_0007
+msgid "Surface roughnessObtained before the process"
+msgstr "Chropowatość powierzchniUzyskana w poprzedzającym procesie technologicznym"
+
+#: MSYM_0008
+msgid "Only sign"
+msgstr "Sam znak"
+
+#: MSYM_0009
+msgid "Roughness"
+msgstr "Chrop. zbiorcza"
+
+#: MSYM_0010
+msgid "Roughness Ra"
+msgstr "Chrop. zbiorcza Ra"
+
+#: MSYM_0011
+msgid "Roughness Rz"
+msgstr "Chrop. zbiorcza Rz"
+
+#: MSYH_0001
+msgid "Hydraulics - Graphic symbols"
+msgstr "Hydraulika - Symbole graficzne"
+
+#: MSYH_0002
+msgid "Hydraulic Source of Energy Direction"
+msgstr "Kierunek przekazywania energii hydraulicznej"
+
+#: MSYH_0003
+msgid "Path of fluid through valve"
+msgstr "Droga i kierunek przepływu płynu przez zawory"
+
+#: MSYH_0004
+msgid "Rotary motion"
+msgstr "Ruch obrotowy"
+
+#: MSYH_0005
+msgid "Variability pump, motor etc."
+msgstr "Zmienność albo nastawialność pompy, sprężyny"
+
+#: MSYH_0006
+msgid "Electric"
+msgstr "Element elektryczny"
+
+#: MSYH_0007
+msgid "Closed path or port"
+msgstr "Zamknięcie kanału lub odcięcie przepływu"
+
+#: MSYH_0008
+msgid "Opposing Linear Actuators Limited Angle of Motion"
+msgstr "Oddziaływanie elektryczne liniowe w przeciwnych kierunkach"
+
+#: MSYH_0009
+msgid "Temperature Indication or control"
+msgstr "Wskaźnik temperatury"
+
+#: MSYH_0010
+msgid "Prime mover"
+msgstr "Napęd główny"
+
+#: MSYH_0011
+msgid "Spring"
+msgstr "Sprężyna"
+
+#: MSYH_0012
+msgid "Restrictor"
+msgstr "Dławienie"
+
+#: MSYH_0013
+msgid "Place for including Non-Return valve symbol"
+msgstr "Miejsce dla uproszczonego symbolu zaworu zwrotnego"
+
+#: MSYH_0014
+msgid "Junctions"
+msgstr "Połączenia"
+
+#: MSYH_0015
+msgid "Flexible"
+msgstr "Przewód giętki"
+
+#: MSYH_0016
+msgid "Piston rod"
+msgstr "Tłoczysko"
+
+#: MSYH_0017
+msgid "Shaft"
+msgstr "Wał"
+
+#: MSYH_0018
+msgid "Shaft -two ways rotate"
+msgstr "Wał o dwóch kierunkach działania"
+
+#: MSYH_0019
+msgid "Detent positioning limited angle of motion"
+msgstr "Zapadka"
+
+#: MSYH_0020
+msgid "Locking device or control"
+msgstr "Blokada"
+
+#: MSYH_0021
+msgid "Over centre device to prevent stopping on dead centre"
+msgstr "Przerzutka"
+
+#: MSYH_0022
+msgid "Non-specific control"
+msgstr "Symbol ogólny, bez wskazania sposobu sterowania"
+
+#: MSYH_0023
+msgid "Push button control"
+msgstr "Przycisk wciskany"
+
+#: MSYH_0024
+msgid "Pull button control"
+msgstr "Przycisk wyciągany"
+
+#: MSYH_0025
+msgid "Push-Pull button control"
+msgstr "Przycisk wciskany, wyciągany"
+
+#: MSYH_0026
+msgid "Lever control"
+msgstr "Dźwignia"
+
+#: MSYH_0027
+msgid "Pedal control"
+msgstr "Pedał"
+
+#: MSYH_0028
+msgid "Treadle control"
+msgstr "Pedał dwukierunkowy"
+
+#: MSYH_0029
+msgid "Plunger control"
+msgstr "Popychacz"
+
+#: MSYH_0030
+msgid "Plunger control with adjustable lenght"
+msgstr "Popychacz z nastawną długością"
+
+#: MSYH_0031
+msgid "Two way function spring"
+msgstr "Sprężyna dwa kierunki działania"
+
+#: MSYH_0032
+msgid "Two way roller control"
+msgstr "Rolka 2 kierunki działania"
+
+#: MSYH_0033
+msgid "Roller control"
+msgstr "Rolka 1 kierunek działania"
+
+#: MSYH_0034
+msgid "Solenoid controller 1-winding"
+msgstr "Element elektryczny z jedną cewka"
+
+#: MSYH_0035
+msgid "Solenoid controller 2-winding"
+msgstr "Element elektryczny z dwoma cewkami"
+
+#: MSYH_0036
+msgid "Solenoid controller 2-winding assembly"
+msgstr "Element elektryczny z dwoma cewkami w jednym zespole"
+
+#: MSYH_0037
+msgid "Electric motor"
+msgstr "Silnik elektryczny"
+
+#: MSYH_0038
+msgid "Piezoelectric component"
+msgstr "Element piezoelektryczny"
+
+#: MSYH_0039
+msgid "Pressure controller"
+msgstr "Sterowanie bezpośrednie za pomocą ciśnienia"
+
+#: MSYH_0040
+msgid "Operate valve by differential pressure area"
+msgstr "Sterowanie za pomocą różnicowy powierzchni przeciwległych"
+
+#: MSYH_0041
+msgid "Internal pilot path"
+msgstr "Wewnętrzna droga sygnału sterującego"
+
+#: MSYH_0042
+msgid "External pilot path"
+msgstr "Zewnętrzna droga sygnału sterującego"
+
+#: MSYH_0043
+msgid "Hydraulic pilot (Direct) (steering by application of pressure)"
+msgstr "Sterowanie przez wzrost ciśnienia hydraulicznego"
+
+#: MSYH_0044
+msgid "Hydraulic pilot (Direct) (steering by release hydraulic pressure)"
+msgstr "Sterowanie przez spadek ciśnienia hydraulicznego"
+
+#: MSYH_0045
+msgid "Oil Pressure Controller (via Control) (steering by application of pressure)"
+msgstr "Sterowanie ze wspomaganiem przez wzrost ciśnienia hydraulicznego"
+
+#: MSYH_0046
+msgid "Oil Pressure Controller (via control) (steering by release hydraulic "
+"pressure)"
+msgstr "Sterowanie ze wspomaganiem przez spadek ciśnienia hydraulicznego"
+
+#: MSYH_0047
+msgid "Oil Pressure-indirectly Controller (via Control) (steering by application of "
+"pressure)"
+msgstr "Sterowanie pośrednie przez wzrost ciśnienia hydraulicznego"
+
+#: MSYH_0048
+msgid "Oil Pressure-indirectly Controller (via Control) (steering by release "
+"hydraulic pressure)"
+msgstr "Sterowanie pośrednie przez spadek ciśnienia hydraulicznego"
+
+#: MSYH_0049
+msgid "2-Stage hydraulic pilot"
+msgstr "Sterowanie z wykorzystaniem ciśnienia hydraulicznego w sterowaniu "
+"dwustopniowym"
+
+#: MSYH_0050
+msgid "Solenoid Operated pilot Valve-Exhaust pilot stage"
+msgstr "Sterowanie dwustopniowe, zewnętrzne zasilenie sterowania"
+
+#: MSYH_0051
+msgid "Solenoid Operated pilot Valve"
+msgstr "Sterowanie dwustopniowe, wewnętrzne zasilanie sterowania"
+
+#: MSYH_0052
+msgid "Pneumatic and Pilot Stage - Pilot Drain"
+msgstr "Sterowanie dwustopniowe ciśnieniem pneumatycznym i hydraulicznym"
+
+#: MSYH_0053
+msgid "Solenoid Control Hydraulic Pilot Spring Cantered External Pilot Supply Drain"
+msgstr "Sterowanie dwustopniowe"
+
+#: MSYH_0054
+msgid "External feedback"
+msgstr "Sprzężenie zwrotne zewnętrzne"
+
+#: MSYH_0055
+msgid "Internal feedback"
+msgstr "Sprzężenie zwrotne wewnętrzne"
+
+#: MSYH_0056
+msgid "Hydraulic motor"
+msgstr "Pompa hydrauliczna"
+
+#: MSYH_0057
+msgid "Fixed capacity with one direction of flow - pump"
+msgstr "Pompa hydrauliczna o jednym kierunku przepływu, o jednym kierunku obrotów"
+
+#: MSYH_0058
+msgid "#NIL Silnik hydrauliczny o zmiennym kierunku przepływu, o stałej objętości "
+"roboczej, o dwóch kierunkach obr"
+msgstr "Silnik hydrauliczny o zmiennym kierunku przepływu, o stałej objętości "
+"roboczej, o dwóch kierunkach obrotów"
+
+#: MSYH_0059
+msgid "Fixed Capacity Bi-Directional Output motor - pump"
+msgstr "Silnik hydrauliczny o zmiennym kierunku przepływu, o zmiennej objętości, o "
+"dwóch kierunkach obrotów"
+
+#: MSYH_0060
+msgid "#NIL Pompa silnik hydrauliczny o zmiennej objętości roboczej, o jednym "
+"kierunku obrotów"
+msgstr "Pompa silnik hydrauliczny o zmiennej objętości roboczej, o jednym kierunku "
+"obrotów"
+
+#: MSYH_0061
+msgid "Variable Capacity (with Undefined Control Mechanism One Direction of Flow) - "
+"pump/motor"
+msgstr "Silnik hydrauliczny o jednym kierunku przepływu, z dwustronnym wałem "
+"końcowym"
+
+#: MSYH_0062
+msgid "Fixed Capacity Unit-Directional Output"
+msgstr "Pompa silnik hydrauliczny o jednym kierunku przepływu"
+
+#: MSYH_0063
+msgid "Variable Capacity (with Hand Control Mechanism Two Directions of Flow) - "
+"pump/motor"
+msgstr "Pompa-silnik hydrauliczny o zmiennym kierunku przepływu"
+
+#: MSYH_0064
+msgid "Hydraulic variable speed drive unit"
+msgstr "Przekładnia hydrauliczna zwarta, o zmiennej prędkości"
+
+#: MSYH_0065
+msgid "Pressure-compensated variable pump"
+msgstr "Pompa o zmiennej objętości roboczej, z wyrównaniem ciśnienia"
+
+#: MSYH_0066
+msgid "Variable pump motor"
+msgstr "Pompa-silnik o zmiennej objętości, hydrauliczny"
+
+#: MSYH_0067
+msgid "Single-acting retraction cylinder"
+msgstr "Cylinder hydrauliczny jednostronnego działania ciągnący"
+
+#: MSYH_0068
+msgid "Double-acting hydraulic cylinder"
+msgstr "Cylinder hydrauliczny dwustronnego działania"
+
+#: MSYH_0069
+msgid "Double-acting telescopic hydraulic cylinder"
+msgstr "Cylinder teleskopowy dwustronnego działania hydraulicznego"
+
+#: MSYH_0070
+msgid "Pneumatic- hydraulic actuator"
+msgstr "Przemiennik pneumatyczno-hydrauliczny jednostronnego działania"
+
+#: MSYH_0071
+msgid "Pneumatic- hydraulic, continuous operations"
+msgstr "Przemiennik pneumatyczno-hydrauliczny ciągłego działania"
+
+#: MSYH_0072
+msgid "Pressure intensifier"
+msgstr "Wzmacniacz ciśnienia jednostronnego działania"
+
+#: MSYH_0073
+msgid "Pressure intensifier, continuous operations"
+msgstr "Wzmacniacz ciśnienia ciągłego działania"
+
+#: MSYH_0074
+msgid "Accumulator"
+msgstr "Akumulator"
+
+#: MSYH_0075
+msgid "Accumulator-Fluid Maintained Under Pressure by Inert Gas"
+msgstr "Akumulator hydrauliczny gazowy"
+
+#: MSYH_0076
+msgid "Prime mover, Non-electric"
+msgstr "Napęd główny nieelektryczny"
+
+#: MSYH_0077
+msgid "Transient position"
+msgstr "Chwilowe położenie pośrednie"
+
+#: MSYH_0078
+msgid "Position opposite, extreme positions"
+msgstr "Dwa położenia skrajne"
+
+#: MSYH_0079
+msgid "Extreme position opposite, middle (neutral)"
+msgstr "Z położeniem, środkowym (neutralnym)"
+
+#: MSYH_0080
+msgid "#NIL Dwie drogi przepływu, odcięte w położeniu spoczynkowym, ze zmiennym "
+"kanałem spoczynkowym"
+msgstr "Dwie drogi przepływu, odcięte w położeniu spoczynkowym, ze zmiennym kanałem "
+"spoczynkowym"
+
+#: MSYH_0081
+msgid "#NIL Dwie drogi przepływu, połączone w położeniu spoczynkowym, ze zmiennym "
+"kanałem spoczynkowym"
+msgstr "Dwie drogi przepływu, połączone w położeniu spoczynkowym, ze zmiennym "
+"kanałem spoczynkowym"
+
+#: MSYH_0082
+msgid "#NIL Trzy drogi przepływu, połączone w położeniu spoczynkowym, ze zmiennym "
+"kanałem spoczynkowym"
+msgstr "Trzy drogi przepływu, połączone w położeniu spoczynkowym, ze zmiennym "
+"kanałem spoczynkowym"
+
+#: MSYH_0083
+msgid "Directional control valve — with manual control"
+msgstr "Zawór odcinający, sterowany siłą mięśni"
+
+#: MSYH_0084
+msgid "Directional control valve 2/2, — with lever control"
+msgstr "Zawór sterujący kierunkiem przepływu 2/2, sterowany dźwignią"
+
+#: MSYH_0085
+msgid "Directional control valve 2/2, — with lever control, with return spring"
+msgstr "Zawór sterujący kierunkiem przepływu 2/2, sterowany dźwignią, powrót "
+"wymuszony sprężyną"
+
+#: MSYH_0086
+msgid "Directional control valve 3/2, - with roller control, with return spring"
+msgstr "Zawór sterujący kierunkiem przepływu 3/2, sterowany rolką, powrót wymuszony "
+"sprężyną"
+
+#: MSYH_0087
+msgid "Directional control valve 4/2, - with button control, with return spring"
+msgstr "Zawór sterujący kierunkiem przepływu 4/2, sterowany za pomocą przycisku, "
+"powrót wymuszony sprężyną"
+
+#: MSYH_0088
+msgid "Directional control valve 3/3, - with solenoid control, spring centred"
+msgstr "Zawór sterujący kierunkiem przepływu 3/3, sterowany elektromagnesami, "
+"ustalany sprężynami"
+
+#: MSYH_0089
+msgid "Directional control valve 4/3, - with button control, spring centred"
+msgstr "Zawór sterujący kierunkiem przepływu 4/3, sterowany pomocą przycisku, "
+"ustalany sprężynami"
+
+#: MSYH_0090
+msgid "Directional control valve 5/3, - 2 stage solenoid and increase pressure, "
+"spring centred"
+msgstr "Zawór sterujący kierunkiem przepływu 5/3 dwustopniowe sterowanie "
+"elektromagnesami i wzrostu ciśnienia, ustalany sprężynami"
+
+#: MSYH_0091
+msgid "Directional control valve 2/2, - with support valve pre-control"
+msgstr "Zawór sterujący kierunkiem przepływu 2/2 z sterowaniem wstępnym zaworem "
+"pomocniczym"
+
+#: MSYH_0092
+msgid "Directional control valve 3/2, - with solenoid control, with return spring"
+msgstr "Zawór sterujący kierunkiem przepływu 3/2, sterowany elektromagnesem, powrót "
+"sprężyna"
+
+#: MSYH_0093
+msgid "Directional control valve 5/2, - with pressure control"
+msgstr "Zawór sterujący kierunkiem przepływu 5/2, sterowany za pomącą ciśnienia"
+
+#: MSYH_0094
+msgid "Directional control valve 4/3, pre-control"
+msgstr "Zawór sterujący kierunkiem przepływu 4/3, sterowaniem wstępnym"
+
+#: MSYH_0095
+msgid "Directional continuous control valve (open), middle (neutral) position"
+msgstr "Sterowanie ciągłe otwarty w położeniu środkowym"
+
+#: MSYH_0096
+msgid "Directional continuous control valve (close), middle (neutral) position"
+msgstr "Sterowanie ciągłe zamknięty w położeniu środkowy"
+
+#: MSYH_0097
+msgid "Servo-valve"
+msgstr "Serwozawór"
+
+#: MSYH_0098
+msgid "Shuttle-off valve — free"
+msgstr "Zawór zwrotny nieobciążony"
+
+#: MSYH_0099
+msgid "Shuttle-off valve — free (Simplified symbol)"
+msgstr "Zawór zwrotny nieobciążony"
+
+#: MSYH_0100
+msgid "Shuttle-off valve — spring loaded"
+msgstr "Zawór zwrotny obciążony sprężyną"
+
+#: MSYH_0101
+msgid "Shuttle-off valve — spring loaded (Simplified symbol)"
+msgstr "Zawór zwrotny obciążony sprężyną"
+
+#: MSYH_0102
+msgid "Shuttle-off valve — pilot controlled"
+msgstr "Zawór zwrotny sterowany bez sprężyny"
+
+#: MSYH_0103
+msgid "Shuttle-off valve — pilot controlled (Simplified symbol)"
+msgstr "Zawór zwrotny sterowany bez sprężyny"
+
+#: MSYH_0104
+msgid "Shuttle-off valve — pilot controlled, spring loaded"
+msgstr "Zawór zwrotny sterowany z sprężyną"
+
+#: MSYH_0105
+msgid "Shuttle-off valve — pilot controlled, spring loaded (Simplified symbol)"
+msgstr "Zawór zwrotny sterowany z sprężyną"
+
+#: MSYH_0106
+msgid "Shuttle valve"
+msgstr "Przełącznik obiegu"
+
+#: MSYH_0107
+msgid "Shuttle valve (Simplified symbol)"
+msgstr "Przełącznik obiegu"
+
+#: MSYH_0108
+msgid "Priority shuttle valve"
+msgstr "Zawór podwójnego sygnału"
+
+#: MSYH_0109
+msgid "Priority shuttle valve (Simplified symbol)"
+msgstr "Zawór podwójnego sygnału"
+
+#: MSYH_0110
+msgid "Rapid exhaust valve"
+msgstr "Zawór szybkiego spustu"
+
+#: MSYH_0111
+msgid "Rapid exhaust valve (Simplified symbol)"
+msgstr "Zawór szybkiego spustu"
+
+#: MSYH_0112
+msgid "Pressure relief valve, single-stage (Simplified symbol)"
+msgstr "Zawór ograniczający ciśnienie jednostopniowy"
+
+#: MSYH_0113
+msgid "Pressure relief valve, two-stage"
+msgstr "Zawór ograniczający ciśnienie dwustopniowy"
+
+#: MSYH_0114
+msgid "Pressure sequence valve"
+msgstr "Zawór kolejności działania"
+
+#: MSYH_0115
+msgid "Pressure relief valve, electrically operated"
+msgstr "Zawór ograniczający ciśnienie sterowany elektrycznie"
+
+#: MSYH_0116
+msgid "Reducing valve - pressure regulator, single-stage"
+msgstr "Regulator ciśnienia, zawór redukcyjny"
+
+#: MSYH_0117
+msgid "Reducing valve - pressure regulator, two-stage"
+msgstr "Zawór redukcyjny dwustopniowy"
+
+#: MSYH_0118
+msgid "Reducing exhaust valve"
+msgstr "Zawór redukcyjny z upustem"
+
+#: MSYH_0119
+msgid "Throttle valve, with manual control"
+msgstr "Zawór dławiący nastawialny"
+
+#: MSYH_0120
+msgid "Throttle valve"
+msgstr "Zawór dławiący nastawialny"
+
+#: MSYH_0121
+msgid "Gate valve"
+msgstr "Zawór zasuwowy odcinający"
+
+#: MSYH_0122
+msgid "Adjustable restrictor valve, — with mechanical control against a return "
+"spring"
+msgstr "Zawór dławiący nastawialny sterowany rolką"
+
+#: MSYH_0123
+msgid "One way restrictor valve"
+msgstr "Zawór dławiąco-zwrotny jednokierunkowy"
+
+#: MSYH_0124
+msgid "Series flow control valve"
+msgstr "Regulator przepływu dwudrogowy"
+
+#: MSYH_0125
+msgid "Series flow control valve (Simplified symbol)"
+msgstr "Regulator przepływu dwudrogowy"
+
+#: MSYH_0126
+msgid "Compensated flow control valve"
+msgstr "Regulator przepływu dwudrogowy z wyrównaniem temperatury"
+
+#: MSYH_0127
+msgid "Compensated flow control valve (Simplified symbol)"
+msgstr "Regulator przepływu dwudrogowy z wyrównaniem temperatury"
+
+#: MSYH_0128
+msgid "Flow control valve — with fixed output and relief port to reservoir"
+msgstr "Regulator przepływu trójdrogowy"
+
+#: MSYH_0129
+msgid "Flow control valve — with fixed output and relief port to reservoir "
+"(Simplified symbol)"
+msgstr "Regulator przepływu trójdrogowy"
+
+#: MSYH_0130
+msgid "Vented reservoir open to atmosphere"
+msgstr "Zbiornik otwarty do atmosfery z filtrem powietrza"
+
+#: MSYH_0131
+msgid "Vented reservoir with inlet pipe above fluid level"
+msgstr "Zbiornik otwarty"
+
+#: MSYH_0132
+msgid "Vented reservoir — with inlet pipe below fluid level"
+msgstr "Zbiornik otwarty"
+
+#: MSYH_0133
+msgid "Pressurized reservoir"
+msgstr "Zbiornik zamknięty"
+
+#: MSYH_0134
+msgid "Filter or strainer"
+msgstr "Filtr"
+
+#: MSYH_0135
+msgid "#NIL Filtr wlewowy"
+msgstr "Filtr wlewowy"
+
+#: MSYH_0136
+msgid "#NIL Filtr ssawny"
+msgstr "Filtr ssawny"
+
+#: MSYH_0137
+msgid "Air Filter"
+msgstr "Filtr powietrza"
+
+#: MSYH_0138
+msgid "Pressure indicator"
+msgstr "Wskaźnik ciśnienia"
+
+#: MSYH_0139
+msgid "Pressure gauge"
+msgstr "Manometr"
+
+#: MSYH_0140
+msgid "Differential pressure gauge"
+msgstr "Manometr różnicowy"
+
+#: MSYH_0141
+msgid "Liquid level gauge"
+msgstr "Wskaźnik poziomu cieczy"
+
+#: MSYH_0142
+msgid "Thermometr"
+msgstr "Termometr"
+
+#: MSYH_0143
+msgid "Flow indicator"
+msgstr "Wskaźnik przepływu"
+
+#: MSYH_0144
+msgid "Flow meter"
+msgstr "Przepływomierz"
+
+#: MSYH_0145
+msgid "Integrating flow meter"
+msgstr "Przepływomierz całkujący"
+
+#: MSYH_0146
+msgid "Tachometer"
+msgstr "Obrotomierz"
+
+#: MSYH_0147
+msgid "Torque meter"
+msgstr "Miernik momentu obrotowego"
+
+#: MSYH_0148
+msgid "Pressure switch"
+msgstr "Przełącznik ciśnienia"
+
+#: MSYH_0149
+msgid "Limit switch"
+msgstr "Wyłącznik krańcowy"
+
+#: MSYH_0150
+msgid "Analog transducer"
+msgstr "Przetwornik analogowo ciśnieniowy"
+
+#: MSYH_0151
+msgid "Pneumatics - Graphic symbols"
+msgstr "Pneumatyka - Symbole graficzne"
+
+#: MSYH_0152
+msgid "Pneumatic Source of Energy -direction"
+msgstr "Kierunek przekazywania energii pneumatycznej"
+
+#: MSYH_0153
+msgid "Air bleed"
+msgstr "Odpowietrznik ciągły"
+
+#: MSYH_0154
+msgid "Air bleeds (momentary)"
+msgstr "Odpowietrznik chwilowy"
+
+#: MSYH_0155
+msgid "Air bleed - adjustable (momentary)"
+msgstr "Odpowietrznik chwilowy o zadanej wartości"
+
+#: MSYH_0156
+msgid "Air exhausts port — plain with no provision for connection"
+msgstr "Droga wylotowa powietrza bez łącznika"
+
+#: MSYH_0157
+msgid "Air exhaust port — threaded for connection"
+msgstr "Droga wylotowa powietrza z łącznikiem"
+
+#: MSYH_0158
+msgid "Self-sealing coupling (— connected, without mechanically opened non-return "
+"valve)"
+msgstr "Szybkozłączka połączona (bez mechanicznie otwieranych zaworów)"
+
+#: MSYH_0159
+msgid "Self-sealing coupling (— unconnected, without mechanically opened non-return "
+"valve)"
+msgstr "Szybkozłączka rozłączona (bez mechanicznie otwieranych zaworów)"
+
+#: MSYH_0160
+msgid "Self-sealing coupling (— connected, with mechanically opened non-return "
+"valves)"
+msgstr "Szybkozłączka połączona (mechanicznie otwierane zawory)"
+
+#: MSYH_0161
+msgid "Self-sealing coupling (— unconnected, with mechanically opened non-return "
+"valves)"
+msgstr "Szybkozłączka rozłączona (mechanicznie otwierane zawory)"
+
+#: MSYH_0162
+msgid "Angular/Rotary connection — one way"
+msgstr "Łącznik kątowy i obrotowy z jednym przewodem"
+
+#: MSYH_0163
+msgid "Angular/Rotary connection — three ways"
+msgstr "Łącznik kątowy i obrotowy z trzema przewodami"
+
+#: MSYH_0164
+msgid "Pneumatic pilot (Direct) (steering by application of pressure)"
+msgstr "Sterowanie przez wzrost ciśnienia pneumatycznego"
+
+#: MSYH_0165
+msgid "Pneumatic pilot (Direct) (steering by release pneumatic pressure)"
+msgstr "Sterowanie przez spadek ciśnienia pneumatycznego"
+
+#: MSYH_0166
+msgid "Pneumatic pilot (Directional valve) (steering by application of pressure)"
+msgstr "Sterowanie ze wspomaganiem przez wzrost ciśnienia pneumatycznego"
+
+#: MSYH_0167
+msgid "Pneumatic pilot (Directional valve) (steering by release pneumatic pressure)"
+msgstr "Sterowanie ze wspomaganiem przez spadek ciśnienia pneumatycznego"
+
+#: MSYH_0168
+msgid "Pneumatic Pressure-indirectly controller (via Control) (steering by "
+"application of pressure)"
+msgstr "Sterowanie pośrednie przez wzrost ciśnienia pneumatycznego"
+
+#: MSYH_0169
+msgid "Pneumatic Pressure-indirectly controller (via Control) (steering by release "
+"hydraulic pressure)"
+msgstr "Sterowanie pośrednie przez spadek ciśnienia pneumatycznego"
+
+#: MSYH_0170
+msgid "Combined control — by solenoid and pilot Valve-Exhaust pilot stage"
+msgstr "Sterowanie dwustopniowe, np. elektromagnes i ciśnienie pneumatyczne"
+
+#: MSYH_0171
+msgid "Combined control — by solenoid and pilot directional valve"
+msgstr "Sterowanie dwustopniowe, wewnętrzne zasilanie sterowania"
+
+#: MSYH_0172
+msgid "2-Stage Hydraulic and Pneumatic Pilot drain"
+msgstr "Sterowanie dwustopniowe ciśnieniem pneumatycznym i hydraulicznym"
+
+#: MSYH_0173
+msgid "Pneumatic motor"
+msgstr "Silnik pneumatyczny"
+
+#: MSYH_0174
+msgid "Pneumatic motor - variable capacity"
+msgstr "Silnik pneumatyczny o zmiennej objętości roboczej"
+
+#: MSYH_0175
+msgid "Pneumatic motor - fixed capacity, — with two directions of flow"
+msgstr "Silnik pneumatyczny o stałej objętości roboczej, dwa kierunki przepływu"
+
+#: MSYH_0176
+msgid "Pneumatic motor - variable capacity, — with two directions of flow"
+msgstr "Silnik pneumatyczny o zmiennej objętości roboczej, dwa kierunki przepływu"
+
+#: MSYH_0177
+msgid "Air compressor"
+msgstr "Sprężarka"
+
+#: MSYH_0178
+msgid "Pneumatic semi-rotary actuator (Oscillating motor)"
+msgstr "Silnik pneumatyczny o ruchu wahadłowym"
+
+#: MSYH_0179
+msgid "Single-acting pneumatic extension cylinder"
+msgstr "Siłownik pneumatyczny jednostronnego działania pchający"
+
+#: MSYH_0180
+msgid "Single-acting pneumatic retraction cylinder"
+msgstr "Siłownik pneumatyczny jednostronnego działania ciągnący ze sprężyną"
+
+#: MSYH_0181
+msgid "Double-acting pneumatic cylinder"
+msgstr "Siłownik pneumatyczny dwustronnego działania z dwustronnym tłoczyskiem"
+
+#: MSYH_0182
+msgid "Double acting-Fixed cushion at full area side only - cylinder"
+msgstr "Siłownik pneumatyczny dwustronnego działania z jednostronnym hamowaniem o "
+"stałej wartości"
+
+#: MSYH_0183
+msgid "Double acting-Adjustable Cushioning at both ends - cylinder"
+msgstr "Siłownik pneumatyczny dwustronnego działania z hamowaniem dwustronnym "
+"nastawialnym"
+
+#: MSYH_0184
+msgid "Single acting Telescopic - cylinder"
+msgstr "Cylinder teleskopowy jednostronnego działania pneumatycznego"
+
+#: MSYH_0185
+msgid "Double acting-Double Piston Rod - cylinder"
+msgstr "Siłownik pneumatyczny dwustronnego działania z dwustronnym tłoczyskiem"
+
+#: MSYH_0186
+msgid "Rodless cylinder"
+msgstr "Beztłoczyskowy siłownik pneumatyczny ze sprzężeniem mechanicznym z "
+"hamowaniem dwustronnym nastawialnym"
+
+#: MSYH_0187
+msgid "Pneumatic impact cylinder"
+msgstr "Siłownik pneumatyczny udarowy"
+
+#: MSYH_0188
+msgid "Tandem cylinder"
+msgstr "Siłownik pneumatyczny tandem dwustronnego działania z dwustronnym "
+"tłoczyskiem"
+
+#: MSYH_0189
+msgid "Four Acting-Double Piston Rod -built in position controller"
+msgstr "Siłownik pneumatyczny czteropołożeniowy i bezstykową sygnalizacją położenia "
+"tłoka"
+
+#: MSYH_0190
+msgid "Double Acting-Double Piston Rod -built in position controller"
+msgstr "Siłownik pneumatyczny podwójny dwustronnego działania i bezstykową "
+"sygnalizacją położenia tłoka"
+
+#: MSYH_0191
+msgid "Rodless cylinder adjustable cushioning, magnetic"
+msgstr "Siłownik pneumatyczny beztłoczyskowy, ze sprzężeniem magnetycznym i "
+"hamowaniem dwustronnym nastawialnym"
+
+#: MSYH_0192
+msgid "Cable cylinder"
+msgstr "Siłownik cięgnowy pneumatyczny z hamowaniem dwustronnym o stałej wartości"
+
+#: MSYH_0193
+msgid "#NIL Siłownik pneumatyczny dwustronnego działania z jednostronnym "
+"tłoczyskiem, z zintegrowanym prowadz"
+msgstr "Siłownik pneumatyczny dwustronnego działania z jednostronnym tłoczyskiem, z "
+"zintegrowanym prowadzeniem"
+
+#: MSYH_0194
+msgid "Double acting piston Rod with pneumatic brake"
+msgstr "Siłownik pneumatyczny dwustronnego działania z jednostronnym tłoczyskiem z "
+"blokada pneumatyczną tłoczyska"
+
+#: MSYH_0195
+msgid "Air spring actuator"
+msgstr "Siłownik mieszkowy"
+
+#: MSYH_0196
+msgid "#NIL Siłownik membranowy mocujący"
+msgstr "Siłownik membranowy mocujący"
+
+#: MSYH_0197
+msgid "Pneumatic- hydraulic acturator"
+msgstr "Przemiennik pneumatyczno-hydrauliczny jednostronnego działania"
+
+#: MSYH_0198
+msgid "Reserve air receiver"
+msgstr "Zbiornik pneumatyczny pomocniczy"
+
+#: MSYH_0199
+msgid "Air receiver"
+msgstr "Zbiornik pneumatyczny"
+
+#: MSYH_0200
+msgid "Prime mover, Non-eletric"
+msgstr "Napęd główny nieelektryczny"
+
+#: MSYH_0201
+msgid "Extreme position opposite, middle ( neutral)"
+msgstr "Z położeniem, środkowym (neutralnym)"
+
+#: MSYH_0202
+msgid "Directional control valve 5/3, - 2 stage solenoid, increase pressure, spring "
+"centred"
+msgstr "Zawór sterujący kierunkiem przepływu 5/3 dwustopniowe sterowanie "
+"elektromagnesami i wzrostu ciśnienia, ustalany sprężynami"
+
+#: MSYH_0203
+msgid "Directional control valve 3/2, - controlled by solenoid with return spring"
+msgstr "Zawór sterujący kierunkiem przepływu 3/2"
+
+#: MSYH_0204
+msgid "Directional control valve 5/2 — controlled by pressure in both directions"
+msgstr "Zawór sterujący kierunkiem przepływu 5/2"
+
+#: MSYH_0205
+msgid "Pressure regulator"
+msgstr "Regulator ciśnienia, zawór redukcyjny"
+
+#: MSYH_0206
+msgid "Pressure reducing valve"
+msgstr "Zawór redukcyjny dwustopniowy"
+
+#: MSYH_0207
+msgid "Adjustable restrictor valve, — with mechanical control against a return "
+"spring (Simplified symbol)"
+msgstr "Zawór dławiący nastawialny"
+
+#: MSYH_0208
+msgid "Shut-off valve"
+msgstr "Zawór zasuwowy odcinający"
+
+#: MSYH_0209
+msgid "Throttle valve — with mechanical control against a return spring (braking "
+"valve)"
+msgstr "Zawór dławiący nastawialny sterowany rolką"
+
+#: MSYH_0210
+msgid "Flow divider valve"
+msgstr "Dzielnik strumienia"
+
+#: MSYH_0211
+msgid "Filter with additional magnetic element"
+msgstr "Z dodatkową przegrodą filtracyjną magnetyczną"
+
+#: MSYH_0212
+msgid "Filter with contamination indicator"
+msgstr "Ze wskaźnikiem zanieczyszczeń"
+
+#: MSYH_0213
+msgid "Filter with manual drain"
+msgstr "Ze spustem siłą mięśni"
+
+#: MSYH_0214
+msgid "Filter with separator, automatic drain"
+msgstr "Ze spustem automatycznym"
+
+#: MSYH_0215
+msgid "Filter with separator, manual drain"
+msgstr "Filtr z oddzielaczem ze spustem siłą mięśni"
+
+#: MSYH_0216
+msgid "Air dryer"
+msgstr "Osuszacz powietrza"
+
+#: MSYH_0217
+msgid "Lubricator"
+msgstr "Smarownica"
+
+#: MSYH_0218
+msgid "Conditioning unit"
+msgstr "Zespół elementów przygotowujących płyn"
+
+#: MSYH_0219
+msgid "Conditioning unit (Simplified symbol)"
+msgstr "Zespół elementów przygotowujących płyn"
+
+#: MSYH_0220
+msgid "Cooler — without representation of the flow lines of the coolant"
+msgstr "Chłodnica bez linii przepływu czynnika chłodzącego"
+
+#: MSYH_0221
+msgid "Cooler — indicating the flow lines of the coolant"
+msgstr "Chłodnica z linią przepływu czynnika chłodzącego"
+
+#: MSYH_0222
+msgid "Heater (arrows in the diamond indicate the introduction of heat)"
+msgstr "Nagrzewnica"
+
+#: MSYH_0223
+msgid "Temperature controller"
+msgstr "Regulator temperatury"
+
+#: MSYH_0224
+msgid "Pulse counter with electric output signal"
+msgstr "Licznik impulsów z elektrycznym sygnałem wyjściowym"
+
+#: MSYH_0225
+msgid "Pulse counter with pneumatic output signal"
+msgstr "Licznik impulsów z pneumatycznym sygnałem wyjściowym"
+
+#: MSYH_0226
+msgid "#NIL Wskaźnik przepływu"
+msgstr "Wskaźnik przepływu"
+
+#: MSYH_0227
+msgid "Przełącznik ciśnienia"
+msgstr "Przełącznik ciśnienia"
+
+#: MSYH_0228
+msgid "Silencer"
+msgstr "Tłumik hałasu"
+
+#: MSYH_0229
+msgid "Implementation of mechanisms symbols and control methods"
+msgstr "Zastosowanie symboli mechanizmów i sposobów sterowania złożonych"
+
+#: MSYH_0230
+msgid "Symbols control methods - one way acting"
+msgstr "Symbole sposobów sterowania o jednym kierunku działania"
+
+#: MSYH_0231
+msgid "Controlling valves with three or more positions"
+msgstr "Sterowanie zaworów o trzech lub więcej położeniach"
+
+#: MSYH_0232
+msgid "Symbols of control mechanisms with three positions"
+msgstr "Symbole mechanizmów sterujących dla zaworów o trzech położeniach"
+
+#: MSYH_0233
+msgid "Controlling by pressure in middle (neutral) position"
+msgstr "Sterowanie za pomocą ciśnienia w położeniu środkowym neutralnym"
+
+#: MSYH_0234
+msgid "Elements indirectly controlled"
+msgstr "Elementy sterowane pośrednio"
+
+#: MSYH_0235
+msgid "Combined control - by 2 independent control (push-poll button solenoid)"
+msgstr "Sterowanie równoległe"
+
+#: MSYH_0236
+msgid "Combined control - by 2 dependent control (solenoid pilot directional valve)"
+msgstr "Sterowanie szeregowe"
+
+#: MSYH_0237
+msgid "#NIL Listwy mechanizmu zapadkowego"
+msgstr "Listwy mechanizmu zapadkowego"
+
+#: MSYH_0238
+msgid "Safety mechanism, protection against overloading technological flow"
+msgstr "Zabezpieczenie przed przeciążeniem technologicznym w ruchu roboczym"
+
+#: MSYH_0239
+msgid "Safety mechanism, protection against overloading return technological flow"
+msgstr "Zabezpieczenie przed przeciążeniem technologicznym w ruchu powrotnym"
+
+#: MSYH_0240
+msgid "Safety mechanism, protection against overloading every technological flow"
+msgstr "Zabezpieczenie przed przeciążeniem technologicznym oddzielnie dla każdego "
+"ruchu"
+
+#: MSYH_0241
+msgid "Safety mechanism, protection against overloading 2 directions technological "
+"flows"
+msgstr "Zabezpieczenie przed przeciążeniem technologicznym wspólnie dla obu ruchów"
+
+#: MSYH_0242
+msgid "Safety mechanism, protection against overloading return stagnancy "
+"technological flows"
+msgstr "Zabezpieczenie przed przeciążeniem technologicznym w ruchu powrotnym i przed "
+"bezwładnościowym"
+
+#: MSYH_0243
+msgid "Safety mechanism, protection against overloading return stagnancy-return "
+"technological flows"
+msgstr "Zabezpieczenie przed przeciążeniem w ruchu roboczym i przed bezwładnościowym "
+"w ruchu powrotnym"
+
+#: MSYH_0244
+msgid "Safety mechanism, protection against overloading technological and stagnancy"
+msgstr "Zabezpieczenie przed przeciążeniami technologicznymi i przed "
+"bezwładnościowymi"
+
+#: MSYH_0245
+msgid "Stop in technological flow possible return flow"
+msgstr "Stop w ruchu roboczym możliwy ruch powrotny"
+
+#: MSYH_0246
+msgid "Stop in return flow possible technological flow"
+msgstr "Stop w ruchu powrotnym możliwy ruch roboczy"
+
+#: MSYH_0247
+msgid "Stop in all flows"
+msgstr "Stop w obu ruchach możliwy ruch przeciwny"
+
+#: MSYH_0248
+msgid "Adjustable in technological flow"
+msgstr "Nastawianie w ruchu roboczym"
+
+#: MSYH_0249
+msgid "Adjustable in return flow"
+msgstr "Nastawianie w ruchu powrotnym"
+
+#: MSYH_0250
+msgid "Adjustable in all flow"
+msgstr "Nastawianie w obu ruchach"
+
+#: MSYH_0251
+msgid "Upholding after technological flow"
+msgstr "Podtrzymanie po ruchu roboczym"
+
+#: MSYH_0252
+msgid "Upholding after return flow"
+msgstr "Podtrzymanie po ruchu powrotnym"
+
+#: MSYH_0253
+msgid "Upholding after any flow"
+msgstr "Podtrzymanie po dowolnym ruchu"
+
+#: MSYH_0254
+msgid "Setting less accurate technological flow"
+msgstr "Nastawianie mało dokładne w ruchu roboczym"
+
+#: MSYH_0255
+msgid "Setting less accurate return flow"
+msgstr "Nastawianie mało dokładne w ruchu powrotnym"
+
+#: MSYH_0256
+msgid "Setting less accurate all flows"
+msgstr "Nastawianie mało dokładne w obu ruchach"
+
+#: MSYH_0257
+msgid "Setting accurate and stabilizes technological flow"
+msgstr "Nastawianie dokładne i stabilizacja w ruchu roboczym"
+
+#: MSYH_0258
+msgid "Setting accurate and stabilizes return flow"
+msgstr "Nastawianie dokładne i stabilizacja w ruchu powrotnym"
+
+#: MSYH_0259
+msgid "Setting accurate and stabilizes all flows"
+msgstr "Nastawianie dokładne i stabilizacja w obydwu ruchach"
+
+#: MSYH_0260
+msgid "Protection in technological flow"
+msgstr "Zabezpieczenie w ruchu roboczym"
+
+#: MSYH_0261
+msgid "Protection in return flow"
+msgstr "Zabezpieczenie w ruchu powrotnym"
+
+#: MSYH_0262
+msgid "Protection in all flow"
+msgstr "Zabezpieczenie w obydwu ruchach"
+
+#: MSYH_0263
+msgid "Blockade after technological flow"
+msgstr "Blokada po ruchu roboczym"
+
+#: MSYH_0264
+msgid "Blockade after return flow"
+msgstr "Blokada po ruchu powrotnym"
+
+#: MSYH_0265
+msgid "Blockade after any flow"
+msgstr "Blokada po dowolnym ruchu"
+
+#: MSYH_0266
+msgid "Mechanical control of servomotor"
+msgstr "Sterowanie pracą siłownika mechaniczne"
+
+#: MSYH_0267
+msgid "Electrical control of servomotor"
+msgstr "Sterowanie pracą siłownika elektryczne"
+
+#: MSYH_0268
+msgid "Dividers proportionate"
+msgstr "Rozdzielacze proporcjonalne"
+
+#: MSYH_0269
+msgid "Flow Dividers - one stage"
+msgstr "Rozdzielacze przepływowe jednostopniowe"
+
+#: MSYH_0270
+msgid "Flow Dividers - two stages"
+msgstr "Rozdzielacze przepływowe dwustopniowe"
+
+#: MSYH_0271
+msgid "Individual station for one performance at the same pressure safety"
+msgstr "Stacja indywidualna o jednej wydajności przy jednym ciśnieniu bezpieczeństwa"
+
+#: MSYH_0272
+msgid "Individual station for one performance at two pressure safety"
+msgstr "Stacja indywidualna o jednej wydajności przy dwóch ciśnieniu bezpieczeństwa"
+
+#: MSYH_0273
+msgid "Individual station with two capacities at the same pressure safety"
+msgstr "Stacja indywidualna o dwóch wydajnościach przy jednym ciśnieniu "
+"bezpieczeństwa"
+
+#: MSYH_0274
+msgid "Individual station with two capacities at two safety pressures"
+msgstr "Stacja indywidualna o dwóch wydajnościach przy dwóch ciśnieniach "
+"bezpieczeństwa"
+
+#: MSYH_0275
+msgid "Symbols identifying the direction of circulation, movement and location of "
+"flow"
+msgstr "Symbole identyfikacyjne kierunku obrotu, przepływu i położenia elementu "
+"sterującego przetworników energii obrotowych"
+
+#: MSYH_0276
+msgid "Engine, fixed capacity, — with one direction of flow"
+msgstr "Silnik o stałej objętości roboczej, jeden kierunek obrotów"
+
+#: MSYH_0277
+msgid "Element, fixed capacity, — with two directions of flow"
+msgstr "Element o stałej objętości, dwa kierunki obrotów"
+
+#: MSYH_0278
+msgid "Pomp, variable capacity, — with one direction of flow"
+msgstr "Pompa o zmiennej objętości, o jednym kierunku obrotów"
+
+#: MSYH_0279
+msgid "Engine, variable capacity, — with one direction of flow"
+msgstr "Silnik o zmiennej objętości roboczej, o dwóch kierunkach obrotów"
+
+#: MSYH_0280
+msgid "Element, variable capacity, — with one direction of flow"
+msgstr "Element o zmiennej objętości roboczej, o jednym kierunku obrotów"
+
+#: MSYH_0281
+msgid "Element, variable capacity, — with two directions of flow"
+msgstr "Element o zmiennej objętości roboczej, o dwóch kierunkach obrotów"
+
+#: MSYH_0282
+msgid "Engine with two directions of flow, - with smooth change of capacity"
+msgstr "Silnik o dwóch kierunkach obrotów, z płynna zmianą objętości roboczej"
+
+#: MSYH_0283
+msgid "Systems logical fluids - Elements of binary logic"
+msgstr "Układy logiczne płynów - Elementy logiki binarnej"
+
+#: MSYH_0284
+msgid "Logical Element"
+msgstr "Element logiczny"
+
+#: MSYH_0285
+msgid "Symbol qualifier functions AND/OR figures"
+msgstr "Symbol kwalifikacyjny funkcji i/lub wartości liczbowe"
+
+#: MSYH_0286
+msgid "Connecting symbols"
+msgstr "Łączenie symboli"
+
+#: MSYH_0287
+msgid "Direction of the flow of information"
+msgstr "Kierunek przepływu informacji"
+
+#: MSYH_0288
+msgid "Deployment of INPUT and OUTPUT"
+msgstr "Rozmieszczenie wejść i wyjść"
+
+#: MSYH_0289
+msgid "NOT"
+msgstr "Negacja logiczna"
+
+#: MSYH_0290
+msgid "Entry negation"
+msgstr "Wejście zanegowane"
+
+#: MSYH_0291
+msgid "Entry blocking"
+msgstr "Wejście blokujące"
+
+#: MSYH_0292
+msgid "Entry blocking - negation"
+msgstr "Wejście blokujące zanegowane"
+
+#: MSYH_0293
+msgid "Entry static"
+msgstr "Wejście statyczne"
+
+#: MSYH_0294
+msgid "Entry dynamic, for which the dynamic state of 1 means the transition from 0 "
+"to 1"
+msgstr "Wejście dynamiczne, dla którego dynamiczny stan 1oznaczaprzejście od 0 do1"
+
+#: MSYH_0295
+msgid "Entry dynamic, for which the dynamic state of 1 means the transition from 1 "
+"to 0"
+msgstr "Wejście dynamiczne, dla którego dynamiczny stan 1oznaczaprzejście od 1 do 0"
+
+#: MSYH_0296
+msgid "''YES''"
+msgstr "Funkcja TAK"
+
+#: MSYH_0297
+msgid "''NOT''"
+msgstr "Funkcja NIE"
+
+#: MSYH_0298
+msgid "''AND''"
+msgstr "Funkcja I"
+
+#: MSYH_0299
+msgid "''OR''"
+msgstr "Funkcja LUB"
+
+#: MSYH_0300
+msgid "Basic Symbols"
+msgstr "Symbole podstawowe"
+
+#: MSYH_0301
+msgid "Elements of processing power"
+msgstr "Elementy przetwarzające energię"
+
+#: MSYH_0302
+msgid "Gauge"
+msgstr "Przyrząd pomiarowy"
+
+#: MSYH_0303
+msgid "Shuttle-off valve, connection, and roll"
+msgstr "Zawór zwrotny, łącznik, połączenia, rolka"
+
+#: MSYH_0304
+msgid "Engine or a pump with a limited rotate angle"
+msgstr "Silnik lub pompa z ograniczonym kątem obrotu"
+
+#: MSYH_0305
+msgid "Control element"
+msgstr "Elementy sterujące"
+
+#: MSYH_0306
+msgid "Conditioners"
+msgstr "Elementy przygotowujące czynnik"
+
+#: MSYH_0307
+msgid "#NIL Obciążnik akumulatora"
+msgstr "Obciążnik akumulatora"
+
+#: MSYH_0308
+msgid "Cylinder"
+msgstr "Cylinder"
+
+#: MSYH_0309
+msgid "Piston"
+msgstr "Tłok"
+
+#: MSYH_0310
+msgid "Some ways to control"
+msgstr "Niektóre sposoby sterowania"
+
+#: MSYH_0311
+msgid "Braking"
+msgstr "Hamowanie"
+
+#: MSYH_0312
+msgid "Receiver"
+msgstr "Zbiornik"
+
+#: MSYH_0313
+msgid "Receiver, Accumulator"
+msgstr "Zbiornik, akumulator"
+
+#: MSYH_0314
+msgid "Block Symbols"
+msgstr "Symbole blokowe"
+
+#: MSYH_0315
+msgid "Open way of flow"
+msgstr "Droga przepływu otwarta"
+
+#: MSYH_0316
+msgid "Open way of primary flow"
+msgstr "Droga obiegu pierwotnego otwarta"
+
+#: MSYH_0317
+msgid "Way of flow"
+msgstr "Droga przepływu"
+
+#: MSYH_0318
+msgid "Shut-off way of flow"
+msgstr "Odcięcie kanału przepływu"
+
+#: MSYH_0319
+msgid "Two ways of flow"
+msgstr "Dwie drogi przepływu"
+
+#: MSYH_0320
+msgid "Three way of flow"
+msgstr "Trzy drogi przepływu"
+
+#: MSYH_0321
+msgid "Three way of flow - Shut-off"
+msgstr "Trzy drogi przepływu odcięta"
+
+#: MSYH_0322
+msgid "Four way of flow"
+msgstr "Cztery drogi przepływu"
+
+#: MSYH_0323
+msgid "Four way of flow - combined internally"
+msgstr "Cztery drogi przepływu połączone wewnętrznie"
+
+#: MSYH_0324
+msgid "All way of flow - Shut-off"
+msgstr "Wszystkie drogi przepływu odcięte"
+
+#: MSYH_0325
+msgid "Five way of flow"
+msgstr "Pięć dróg przepływu"
+
+#: MSYH_0326
+msgid "Control Mechanisms"
+msgstr "Mechanizmy i sposoby sterowania"
+
+#: MSYH_0327
+msgid "Control Methods"
+msgstr "Sposoby sterowania"
+
+#: MSYH_0328
+msgid "Energy Conversion and Storage"
+msgstr "Przetwarzanie i gromadzenie energii"
+
+#: MSYH_0330
+msgid "Linear Energy Converters"
+msgstr "Liniowe przetworniki energii"
+
+#: MSYH_0331
+msgid "Special Energy Converters"
+msgstr "Specjalne przetworniki energii"
+
+#: MSYH_0332
+msgid "Energy Storage"
+msgstr "Gromadzenie energii"
+
+#: MSYH_0333
+msgid "Source of Energy"
+msgstr "Źródła energii"
+
+#: MSYH_0334
+msgctxt "MSYH_0334"
+msgid "Energy Control Regulation"
+msgstr "Sterowanie i regulacja energii ogólne"
+
+#: MSYH_0335
+msgid "Directional Control Valve"
+msgstr "Zawory rozdzielające"
+
+#: MSYH_0336
+msgid "Shuttle Valves"
+msgstr "Zawory zwrotne, przełączniki obiegu"
+
+#: MSYH_0337
+msgid "Pressure Control Valves"
+msgstr "Zawory sterujące ciśnieniem"
+
+#: MSYH_0338
+msgid "Flow Control Valves"
+msgstr "Zawory sterujące natężeniem przepływu"
+
+#: MSYH_0339
+msgid "Hydraulic Reservoirs"
+msgstr "Zbiorniki hydrauliczne"
+
+#: MSYH_0340
+msgid "Measuring Instruments and Indicators"
+msgstr "Przyrządy pomiarowe i czujniki"
+
+#: MSYH_0341
+msgid "Quick-acting coupling"
+msgstr "Przewody i łączniki"
+
+#: MSYH_0342
+msgid "Rotary connection"
+msgstr "Przewody i łączniki"
+
+#: MSYH_0343
+msgctxt "MSYH_0343"
+msgid "Energy Control Regulation"
+msgstr "Sterowanie i regulacja energii ogólne"
+
+#: MSYH_0344
+msgid "Servo Valve"
+msgstr "Zawory rozdzielające"
+
+#: MSYH_0346
+msgid "Overload Protection"
+msgstr "Zabezpieczenie przed przeciążeniem"
+
+#: MSYH_0347
+msgid "Emergency stop"
+msgstr "Stop awaryjny"
+
+#: MSYH_0348
+msgid "Adjustable and upholding the power"
+msgstr "Nastawienie i podtrzymywanie sił"
+
+#: MSYH_0349
+msgid "Setting speed"
+msgstr "Nastawienie prędkości"
+
+#: MSYH_0350
+msgid "Protection against uncontrolled flow"
+msgstr "Zabezpieczenie przed niekontrolowanym ruchem"
+
+#: MSYH_0351
+msgid "Stopping and immobilisation"
+msgstr "Zatrzymanie i unieruchomienie"
+
+#: MSYH_0352
+msgid "Servomotor Control Mechanisms"
+msgstr "Rodzaje sterowania pracą siłownika"
+
+#: MSYH_0353
+msgid "Methods of power"
+msgstr "Sposoby zasilania"
+
+#: MSYH_0354
+msgid "Style A"
+msgstr "Forma A"
+
+#: MSYH_0355
+msgid "Style B"
+msgstr "Forma B"
+
+#: MSYH_0356
+msgid "ISO 1219-1"
+msgstr "PN-ISO 1219-1"
+
+#: MSYH_0357
+msgctxt "MSYH_0357"
+msgid "Other"
+msgstr "Pozostałe"
+
+#: MSYH_0358
+msgid "ISO 5784-1:1"
+msgstr "PN-ISO 5784-1"
+
+#: MSTB_0001
+msgid "Row"
+msgstr "Szereg"
+
+#: MSTB_0002
+msgid "Non-Alloy Steel"
+msgstr "Stal niestopowa"
+
+#: MSTB_0003
+msgid "Stainless Steel"
+msgstr "Stal nierdzewna"
+
+#: MSTB_0004
+msgctxt "MSTB_0004"
+msgid "Type"
+msgstr "Typ"
+
+#: MSTB_0005
+msgid "Exchanger - optimal arrangement"
+msgstr "Wymiennik - rozkład optymalny"
+
+#: MSTB_0006
+msgid "Exchanger - arrangement"
+msgstr "Wymiennik - rozkład"
+
+#: MSTB_0007
+msgid "Exchanger"
+msgstr "Wymiennik"
+
+#: MSTB_0008
+msgid "Arrangement"
+msgstr "Rozkład"
+
+#: MSTB_0009
+msgid "Optimal arrangement"
+msgstr "Rozkład optymalny"
+
+#: MSTB_0010
+msgid "Pipes"
+msgstr "Rury"
+
+#: MSTB_0011
+msgid "Heavy"
+msgstr "ciężkie"
+
+#: MSTB_0012
+msgid "Medium"
+msgstr "średnie"
+
+#: MSTB_0013
+msgid "Light"
+msgstr "lekkie"
+
+#: MSTB_0014
+msgid "Arrangement by norm"
+msgstr "Rozkład wg normy"
+
+#: MSTB_0015
+msgid "Arrangement 1 - next to axis"
+msgstr "Rozkład 1 - obok osi"
+
+#: MSTB_0016
+msgid "Arrangement 2 - by axis"
+msgstr "Rozkład 2 - po osi"
+
+#: MSTB_0017
+msgid "Arrangement 3 - alternatingly, next to axis"
+msgstr "Rozkład 3 - naprzemiennie, obok osi"
+
+#: MSTB_0018
+msgid "Arrangement 4 - alternatingly, by axis"
+msgstr "Rozkład 4 - naprzemiennie, po osi"
+
+#: MSTB_0019
+msgid "Arrangement 1 - by axis"
+msgstr "Rozkład 1 - przy osi"
+
+#: MSTB_0020
+msgid "Arrangement 2 - farther axis"
+msgstr "Rozkład 2 - dalej osi"
+
+#: MSTB_0021
+msgid "Arrangement 3 - alternatingly, by axis"
+msgstr "Rozkład 3 - naprzemiennie, przy osi"
+
+#: MSTB_0022
+msgid "Arrangement 4 - alternatingly, farther axis"
+msgstr "Rozkład 4 - naprzemiennie, dalej osi"
+
+#: MPIP_0001
+msgctxt "MPIP_0001"
+msgid "Lines"
+msgstr "Linie"
+
+#: MPME_0001
+msgid "R"
+msgstr "R"
+
+#: MPIP_0003
+msgid "Control line"
+msgstr "Przewód sterowania"
+
+#: MPME_0002
+msgid "S"
+msgstr "S"
+
+#: MPIP_0004
+msgid "Draw elements which are assembled"
+msgstr "Obrysowanie elementów stanowiących zespół"
+
+#: MPME_0003
+msgid "O"
+msgstr "O"
+
+#: MPIP_0005
+msgid "Mechanical connections"
+msgstr "#NIL Połączenia mechaniczne"
+
+#: MPME_0004
+msgid "M"
+msgstr "M"
+
+#: MPIP_0002
+msgid "Operating line"
+msgstr "Przewody robocze"
+
+#: MPIP_0006
+msgid "Standard"
+msgstr "Standardowe"
+
+#: MPIP_0007
+msgid "Operating & Control line"
+msgstr "Przewód roboczy i sterowania"
+
+#: MEWLD_001
+msgid "Joints symbol"
+msgstr "Oznaczenie połączeń"
+
+#: MEWLD_002
+msgid "(top)"
+msgstr "(góra)"
+
+#: MEWLD_003
+msgid "(bottom)"
+msgstr "(dół)"
+
+#: MWK01
+msgctxt "MWK01"
+msgid "Joints symbols"
+msgstr "Oznaczenia połączeń"
+
+#: MWK02
+msgid "Left"
+msgstr "Lewe"
+
+#: MWK03
+msgid "Right"
+msgstr "Prawe"
+
+#: MWK04
+msgid "Without description"
+msgstr "Bez opisu"
+
+#: MWK05
+msgid "With description"
+msgstr "Z opisem"
+
+#: MWK06
+msgid "With a closed description"
+msgstr "Z zamkniętym opisem"
+
+#: MWKA7
+msgctxt "MWKA7"
+msgid "Tolerance"
+msgstr "Oznaczenia"
+
+#: MWKA2
+msgid "Tolerance (left)"
+msgstr "Oznaczenia (lewe)"
+
+#: MWKA3
+msgid "Tolerance (right)"
+msgstr "Oznaczenia (prawe)"
+
+#: MEWLD_004
+msgid "Lack"
+msgstr "Brak"
+
+#: MEWLD_005
+msgid "Fillet weld"
+msgstr "Spoina pachwinowa"
+
+#: MEWLD_006
+msgid "Flange weld"
+msgstr "Spoina brzeżna"
+
+#: MEWLD_007
+msgid "Square butt welding"
+msgstr "Spoina I"
+
+#: MEWLD_008
+msgid "V-Joints"
+msgstr "Spoina V"
+
+#: MEWLD_009
+msgid "1/2 V-Joints"
+msgstr "Spoina 1/2 V"
+
+#: MEWLD_010
+msgid "Y-Joints"
+msgstr "Spoina Y"
+
+#: MEWLD_011
+msgid "1/2 Y-Joints"
+msgstr "Spoina 1/2 Y"
+
+#: MEWLD_012
+msgid "U-Joints"
+msgstr "Spoina U"
+
+#: MEWLD_013
+msgid "Single-J"
+msgstr "Spoina 1/2 U (J)"
+
+#: MEWLD_014
+msgid "Back weld"
+msgstr "Spoina graniowa"
+
+#: MEWLD_015
+msgid "Plug welding"
+msgstr "Spoina otworowa podłużna"
+
+#: MEWLD_016
+msgid "Spot welding"
+msgstr "Spoina bezotworowa punktowa"
+
+#: MEWLD_017
+msgid "Seam welding"
+msgstr "Spoina bezotworowa liniowa"
+
+#: MEWLD_018
+msgid "V-Joints with steep edges"
+msgstr "Spoina V o stromych brzegach"
+
+#: MEWLD_019
+msgid "1/2 V-Joints with steep edge"
+msgstr "Spoina 1/2 V ze stromym brzegiem"
+
+#: MEWLD_020
+msgid "Edge weld"
+msgstr "Spoina grzbietowa"
+
+#: MEWLD_021
+msgid "Weld area"
+msgstr "Powierzchnia napawana"
+
+#: MEWLD_022
+msgid "Oblique butt joint"
+msgstr "Złącze doczołowe ukośne"
+
+#: MEWLD_023
+msgid "Wrap connector"
+msgstr "Złącze zawijane"
+
+#: MEWLD_024
+msgid "Constant pad welding"
+msgstr "Stała podkładka spawalnicza"
+
+#: MEWLD_025
+msgid "Removable pad welding"
+msgstr "Usuwalna podkładka spawalnicza"
+
+#: MEWLD_026
+msgid "Flush finish welding"
+msgstr "Płaski"
+
+#: MEWLD_027
+msgid "Convex finish welding"
+msgstr "Wypukły"
+
+#: MEWLD_028
+msgid "Concave finish welding"
+msgstr "Wklęsły"
+
+#: MEWLD_029
+msgid "Smooth transition"
+msgstr "Łagodne przejście"
+
+#: MEWLD_030
+msgid "Butt joint"
+msgstr "Złącze doczołowe"
+
+#: MEWLD_031
+msgid "Double fillet weld"
+msgstr "Spoina dwustronna pachwinowa"
+
+#: MEWLD_032
+msgid "Double-V"
+msgstr "Spoina X"
+
+#: MEWLD_033
+msgid "Double bevel"
+msgstr "Spoina K"
+
+#: MEWLD_034
+msgid "Double 1/2 Y-Joints"
+msgstr "Spoina dwustronna 12 Y"
+
+#: MEWLD_035
+msgid "Double-U"
+msgstr "Spoina 2 U"
+
+#: MEWLD_036
+msgid "Double-J"
+msgstr "Spoina dwustronna 12 U"
+
+#: MEWLD_037
+msgid "All rounded welding"
+msgstr "Spoina obwodowa"
+
+#: MEWLD_038
+msgid "Field weld symbol"
+msgstr "Spoina montażowa"
+
+#: MEWLD_039
+msgid "Field weld symbol, rounded"
+msgstr "Spoina montażowa, obwodowa"
+
+#: MEWLD_040
+msgid "Number of process"
+msgstr "Numer procesu"
+
+#: MEWLD_041
+msgid "Arc welding"
+msgstr "Spawanie łukowe"
+
+#: MEWLD_042
+msgid "Metal arc welding"
+msgstr "Spawanie łukowe elektrodą metalową"
+
+#: MEWLD_043
+msgid "Metal arc welding without gas protection"
+msgstr "Spawanie łukowe elektrodą metalową bez osłony gazowej"
+
+#: MEWLD_044
+msgid "Manual metal arc welding (metal arc welding with covered electrode), "
+"shielded metal arc welding /USA/"
+msgstr "Ręczne spawanie łukowe, MMA spawanie łukowe elektrodą otuloną"
+
+#: MEWLD_045
+msgid "Gravity (arc) welding with covered electrode, gravity feed welding /USA/"
+msgstr "Spawanie grawitacyjne elektrodą otuloną"
+
+#: MEWLD_046
+msgid "Self-shielded tubular-cored arc welding"
+msgstr "Spawanie łukowe samoosłonowym drutem proszkowym"
+
+#: MEWLD_047
+msgid "Submerged arc welding"
+msgstr "Spawanie łukiem krytym"
+
+#: MEWLD_048
+msgid "Submerged arc welding with one wire electrode"
+msgstr "Spawanie łukiem krytym jednym drutem elektrodowym"
+
+#: MEWLD_049
+msgid "Submerged arc welding with strip electrode"
+msgstr "Spawanie łukiem krytym elektrodą taśmową"
+
+#: MEWLD_050
+msgid "Submerged arc welding with multiple wire electrodes"
+msgstr "Spawanie łukiem krytym wieloma drutami elektrodowymi"
+
+#: MEWLD_051
+msgid "Submerged arc welding with metallic powder addition"
+msgstr "Spawanie łukiem krytym z dodatkiem proszku metalowego"
+
+#: MEWLD_052
+msgid "Submerged arc welding with tubular cored electrode"
+msgstr "Spawanie łukiem krytym drutem proszkowym"
+
+#: MEWLD_053
+msgid "Gas-shielded metal arc welding, gas metal arc welding /USA/"
+msgstr "Spawanie łukowe w osłonie gazu"
+
+#: MEWLD_054
+msgid "Metal inert gas welding, MIG welding, gas metal arc welding /USA/"
+msgstr "Spawanie elektrodą metalową w osłonie gazów obojętnych, spawanie metodą MIG"
+
+#: MEWLD_055
+msgid "Metal active gas welding,"
+msgstr "Spawanie elektrodą metalową w osłonie gazów aktywnych, spawanie metodą MAG"
+
+#: MEWLD_056
+msgid "Tubular cored metal arc welding with active gas shield, flux cored arc "
+"welding /USA/"
+msgstr "Spawanie łukowe w osłonie gazu aktywnego drutem proszkowym"
+
+#: MEWLD_057
+msgid "Tubular cored metal arc welding with inert gas shield, flux cored arc "
+"welding /USA/"
+msgstr "Spawanie łukowe w osłonie gazu obojętnego drutem proszkowym"
+
+#: MEWLD_058
+msgid "Gas-shielded welding with non-consumable electrode"
+msgstr "Spawanie elektrodą nietopliwą w osłonie gazu"
+
+#: MEWLD_059
+msgid "Tungsten inert gas welding, TIG welding, gas tungsten arc welding /USA/"
+msgstr "Spawanie elektrodą wolframową w osłonie gazów obojętnych, spawanie metodą "
+"TIG"
+
+#: MEWLD_060
+msgid "Plasma arc welding"
+msgstr "Spawanie plazmowe"
+
+#: MEWLD_061
+msgid "Plasma MIG welding"
+msgstr "Spawanie plazmowe metodą MIG"
+
+#: MEWLD_062
+msgid "Powder plasma arc welding"
+msgstr "Spawanie plazmowe proszkowe"
+
+#: MEWLD_063
+msgid "Other arc welding processes"
+msgstr "Inne metody spawania łukowego"
+
+#: MEWLD_064
+msgid "Magnetically impelled arc butt welding"
+msgstr "Spawanie łukiem wirującym"
+
+#: MEWLD_065
+msgid "Resistance welding"
+msgstr "Zgrzewanie rezystancyjne"
+
+#: MEWLD_066
+msgid "Spot welding, resistance spot welding /USA/"
+msgstr "Zgrzewanie punktowe"
+
+#: MEWLD_067
+msgid "Indirect spot welding, indirect welding /USA/"
+msgstr "Zgrzewanie punktowe pośrednie"
+
+#: MEWLD_068
+msgid "Direct spot welding"
+msgstr "Zgrzewanie punktowe bezpośrednie"
+
+#: MEWLD_069
+msgid "Seam welding, resistance seam welding /USA/"
+msgstr "Zgrzewanie liniowe"
+
+#: MEWLD_070
+msgid "Lap seam welding"
+msgstr "Zgrzewanie liniowe na zakładkę"
+
+#: MEWLD_071
+msgid "Mash seam welding"
+msgstr "Zgrzewanie liniowe zgniotowe"
+
+#: MEWLD_072
+msgid "Foil butt-seam welding"
+msgstr "Zgrzewanie liniowo-doczołowe z folią"
+
+#: MEWLD_073
+msgid "Seam welding with strip"
+msgstr "Zgrzewanie liniowo-doczołowe z taśmą"
+
+#: MEWLD_074
+msgid "Projection welding"
+msgstr "Zgrzewanie garbowe"
+
+#: MEWLD_075
+msgid "Indirect projection welding"
+msgstr "Zgrzewanie garbowe pośrednie"
+
+#: MEWLD_076
+msgid "Direct projection welding"
+msgstr "Zgrzewanie garbowe bezpośrednie"
+
+#: MEWLD_077
+msgid "Flash welding"
+msgstr "Zgrzewanie iskrowe"
+
+#: MEWLD_078
+msgid "Flash welding with preheating"
+msgstr "Zgrzewanie iskrowe z podgrzewaniem wstępnym"
+
+#: MEWLD_079
+msgid "Flash welding without preheating"
+msgstr "Zgrzewanie iskrowe bez podgrzewania wstępnego"
+
+#: MEWLD_080
+msgid "Resistance butt welding, upset welding /USA/"
+msgstr "Zgrzewanie rezystancyjne zwarciowe doczołowe"
+
+#: MEWLD_081
+msgid "Other resistance welding processes"
+msgstr "Inne metody zgrzewania rezystancyjnego"
+
+#: MEWLD_082
+msgid "HF resistance welding (high frequency resistance welding), high frequency "
+"upset welding /USA/"
+msgstr "Zgrzewanie rezystancyjne prądem o podwyższonej częstotliwości"
+
+#: MEWLD_083
+msgid "Gas welding, oxyfuel gas welding /USA/"
+msgstr "Spawanie gazowe"
+
+#: MEWLD_084
+msgid "Oxy-fuel gas welding, oxyfuel gas welding /USA/"
+msgstr "Spawanie gazowo-tlenowe"
+
+#: MEWLD_085
+msgid "Oxy-acetylene welding, oxyacetylene welding /USA/"
+msgstr "Spawanie acetylenowo-tlenowe"
+
+#: MEWLD_086
+msgid "Oxy- propane welding"
+msgstr "Spawanie propanowo-tlenowe"
+
+#: MEWLD_087
+msgid "Oxy-hydrogen welding, oxyhydrogen welding /USA/"
+msgstr "Spawanie wodorowo-tlenowe"
+
+#: MEWLD_088
+msgid "Welding with pressure"
+msgstr "Zgrzewanie"
+
+#: MEWLD_089
+msgid "Ultrasonic welding"
+msgstr "Zgrzewanie ultradźwiękowe"
+
+#: MEWLD_090
+msgid "Friction welding"
+msgstr "Zgrzewanie tarciowe"
+
+#: MEWLD_091
+msgid "Welding by high mechanical energy"
+msgstr "Zgrzewanie wysoką energią mechaniczną"
+
+#: MEWLD_092
+msgid "Explosive welding, explosion welding /USA/"
+msgstr "Zgrzewanie wybuchowe"
+
+#: MEWLD_093
+msgid "Diffusion welding"
+msgstr "Zgrzewanie dyfuzyjne"
+
+#: MEWLD_094
+msgid "Oxy-fuel gas pressure welding, pressure gas welding /USA/"
+msgstr "Zgrzewanie gazowo-tlenowe"
+
+#: MEWLD_095
+msgid "Cold pressure welding, cold welding /USA/"
+msgstr "Zgrzewanie zgniotowe"
+
+#: MEWLD_096
+msgid "Beam welding"
+msgstr "Spawanie wiązką"
+
+#: MEWLD_097
+msgid "Electron beam welding"
+msgstr "Spawanie wiązką elektronów"
+
+#: MEWLD_098
+msgid "Electron beam welding in vacuum"
+msgstr "Spawanie wiązką elektronów w próżni"
+
+#: MEWLD_099
+msgid "Electron beam welding in atmosphere"
+msgstr "Spawanie wiązką elektronów w atmosferze"
+
+#: MEWLD_100
+msgid "Laser welding, laser beam welding /USA/"
+msgstr "Spawanie laserowe"
+
+#: MEWLD_101
+msgid "Solid state laser welding"
+msgstr "Spawanie laserem na ciele stałym"
+
+#: MEWLD_102
+msgid "Gas laser welding"
+msgstr "Spawanie laserem gazowym"
+
+#: MEWLD_103
+msgid "Other welding processes"
+msgstr "Inne procesy spawania/zgrzewania"
+
+#: MEWLD_104
+msgid "Aluminothermic welding thermite welding /USA/"
+msgstr "Spawanie aluminotermiczne"
+
+#: MEWLD_105
+msgid "Electroslag welding"
+msgstr "Spawanie elektrożużlowe"
+
+#: MEWLD_106
+msgid "Electrogas welding"
+msgstr "Spawanie elektrogazowe"
+
+#: MEWLD_107
+msgid "Induction welding"
+msgstr "Zgrzewanie indukcyjne"
+
+#: MEWLD_108
+msgid "Induction butt welding, induction upset welding /USA/"
+msgstr "Zgrzewanie indukcyjne doczołowe"
+
+#: MEWLD_109
+msgid "Induction seam welding"
+msgstr "Zgrzewanie indukcyjne liniowe"
+
+#: MEWLD_110
+msgid "Light radiation welding"
+msgstr "Spawanie wiązką światła"
+
+#: MEWLD_111
+msgid "Infrared welding"
+msgstr "Spawanie promieniami podczerwonymi"
+
+#: MEWLD_112
+msgid "Percussion welding"
+msgstr "Zgrzewanie udarowe"
+
+#: MEWLD_113
+msgid "Stud welding"
+msgstr "Przypawanie kołków"
+
+#: MEWLD_114
+msgid "Resistance stud welding"
+msgstr "Zgrzewanie rezystancyjne kołków"
+
+#: MEWLD_115
+msgid "Drawn arc stud welding with ceramic ferrule or shielding gas, arc stud "
+"welding /USA/"
+msgstr "Przypawanie łukiem ciągnionym kołków w osłonie łuku tuleją ceramiczną lub "
+"gazem osłonowym"
+
+#: MEWLD_116
+msgid "Short-cycle drawn arc stud welding, arc stud welding /USA/"
+msgstr "Przypawanie krótkotrwałym łukiem ciągnionym kołków"
+
+#: MEWLD_117
+msgid "Capacitor discharge drawn arc stud welding, arc stud welding /USA/"
+msgstr "Zgrzewanie kondensatorowe łukiem ciągnionym kołków"
+
+#: MEWLD_118
+msgid "Capacitor discharge stud welding with tip ignition, arc stud welding /USA/"
+msgstr "Zgrzewanie kondensatorowe łukiem ciągnionym kołków z końcówką zapłonową"
+
+#: MEWLD_119
+msgid "Drawn arc stud welding with fusible collar"
+msgstr "Zgrzewanie łukiem ciągnionym kołków z niskotopliwym pierścieniem"
+
+#: MEWLD_120
+msgid "Friction stud welding"
+msgstr "Zgrzewanie tarciowe kołków"
+
+#: MEWLD_121
+msgid "Cutting and gouging"
+msgstr "Cięcie i żłobienie"
+
+#: MEWLD_122
+msgid "Flame cutting, oxygen cutting /USA/"
+msgstr "Cięcie tlenowe"
+
+#: MEWLD_123
+msgid "Arc cutting"
+msgstr "Cięcie łukowe"
+
+#: MEWLD_124
+msgid "Air arc cutting, air carbon arc cutting /USA/"
+msgstr "Cięcie łukowo-powietrzne"
+
+#: MEWLD_125
+msgid "Oxygen arc cutting"
+msgstr "Cięcie łukowo-tlenowe"
+
+#: MEWLD_126
+msgid "Plasma cutting, plasma arc cutting /USA/"
+msgstr "Cięcie plazmowe"
+
+#: MEWLD_127
+msgid "Laser cutting, laser beam cutting /USA/"
+msgstr "Cięcie laserowe"
+
+#: MEWLD_128
+msgid "Flame gouging, thermal gouging /USA/"
+msgstr "Żłobienie płomieniowe"
+
+#: MEWLD_129
+msgid "Arc gouging"
+msgstr "Żłobienie łukowe"
+
+#: MEWLD_130
+msgid "Air arc gouging, air carbon arc cutting /USA/"
+msgstr "Żłobienie łukowo-powietrzne"
+
+#: MEWLD_131
+msgid "Oxygen arc gouging, oxygen gouging /USA/"
+msgstr "Żłobienie łukowo-tlenowe"
+
+#: MEWLD_132
+msgid "Plasma gouging"
+msgstr "Żłobienie plazmowe"
+
+#: MEWLD_133
+msgid "Brazing, soldering and braze welding"
+msgstr "Lutowanie twarde, lutowanie miękkie i lutospawanie"
+
+#: MEWLD_134
+msgid "Brazing"
+msgstr "Lutowanie twarde"
+
+#: MEWLD_135
+msgid "Infrared brazing"
+msgstr "Lutowanie twarde promieniami podczerwonymi"
+
+#: MEWLD_136
+msgid "Flame brazing, torch brazing /USA/"
+msgstr "Lutowanie twarde płomieniowe"
+
+#: MEWLD_137
+msgid "Furnace brazing"
+msgstr "Lutowanie twarde piecowe"
+
+#: MEWLD_138
+msgid "Dip brazing"
+msgstr "Lutowanie twarde kąpielowe"
+
+#: MEWLD_139
+msgid "Salt-bath brazing, dip brazing /USA/"
+msgstr "Lutowanie twarde w kąpieli solnej"
+
+#: MEWLD_140
+msgid "Induction brazing"
+msgstr "Lutowanie twarde indukcyjne"
+
+#: MEWLD_141
+msgid "Resistance brazing"
+msgstr "Lutowanie twarde rezystancyjne"
+
+#: MEWLD_142
+msgid "Diffusion brazing"
+msgstr "Lutowanie twarde dyfuzyjne"
+
+#: MEWLD_143
+msgid "Vacuum brazing"
+msgstr "Lutowanie twarde próżniowe"
+
+#: MEWLD_144
+msgid "Other brazing"
+msgstr "Inne metody lutowania twardego"
+
+#: MEWLD_145
+msgid "Soldering"
+msgstr "Lutowanie miękkie"
+
+#: MEWLD_146
+msgid "Infrared soldering"
+msgstr "Lutowanie miękkie promieniami podczerwonymi"
+
+#: MEWLD_147
+msgid "Flame soldering, torch soldering /USA/"
+msgstr "Lutowanie miękkie płomieniowe"
+
+#: MEWLD_148
+msgid "Furnace soldering"
+msgstr "Lutowanie miękkie piecowe"
+
+#: MEWLD_149
+msgid "Dip soldering"
+msgstr "Lutowanie miękkie kąpielowe"
+
+#: MEWLD_150
+msgid "Salt-bath soldering"
+msgstr "Lutowanie miękkie w kąpieli solnej"
+
+#: MEWLD_151
+msgid "Induction soldering"
+msgstr "Lutowanie miękkie indukcyjne"
+
+#: MEWLD_152
+msgid "Ultrasonic soldering"
+msgstr "Lutowanie miękkie ultradźwiękowe"
+
+#: MEWLD_153
+msgid "Resistance soldering"
+msgstr "Lutowanie miękkie rezystancyjne"
+
+#: MEWLD_154
+msgid "Diffusion soldering"
+msgstr "Lutowanie miękkie dyfuzyjne"
+
+#: MEWLD_155
+msgid "Wave soldering"
+msgstr "Lutowanie miękkie falowe"
+
+#: MEWLD_156
+msgid "Soldering with soldering iron"
+msgstr "Lutowanie miękkie lutownicą"
+
+#: MEWLD_157
+msgid "Vacuum soldering"
+msgstr "Lutowanie miękkie próżniowe"
+
+#: MEWLD_158
+msgid "Drag soldering"
+msgstr "Lutowanie miękkie z transportem przez kąpiel"
+
+#: MEWLD_159
+msgid "Other soldering"
+msgstr "Inne metody lutowania miękkiego"
+
+#: MEWLD_160
+msgid "Braze welding"
+msgstr "Lutospawanie"
+
+#: MEWLD_161
+msgid "Gas braze welding"
+msgstr "Lutospawanie gazowe"
+
+#: MEWLD_162
+msgid "Arc braze welding"
+msgstr "Lutospawanie łukowe"
+
+#: MEWLD_163
+msgid "Replaced and obsolete processes"
+msgstr "Wycofane i przestarzałe metody"
+
+#: MEWLD_164
+msgid "Bare wire metal arc welding, bare metal arc welding /USA/"
+msgstr "Spawanie łukowe elektrodą nieotuloną"
+
+#: MEWLD_165
+msgid "Coated wire metal arc welding"
+msgstr "Spawanie łukowe elektrodą oplataną"
+
+#: MEWLD_166
+msgid "Firecracker welding"
+msgstr "Spawanie elektrodą leżącą"
+
+#: MEWLD_167
+msgid "Atomic-hydrogen welding"
+msgstr "Spawanie łukowo-wodorowe"
+
+#: MEWLD_168
+msgid "Carbon-arc welding"
+msgstr "Spawanie łukowe elektrodą węglową"
+
+#: MEWLD_169
+msgid "Air-fuel gas welding"
+msgstr "Spawanie gazowo-powietrzne"
+
+#: MEWLD_170
+msgid "Air-acetylene welding, air acetylene welding /USA/"
+msgstr "Spawanie acetylenowo-powietrzne"
+
+#: MEWLD_171
+msgid "Air-propane welding"
+msgstr "Spawanie propanowo-powietrzne"
+
+#: MEWLD_172
+msgid "Forge welding"
+msgstr "Zgrzewanie kuzienne"
+
+#: MEWLD_173
+msgid "Arc image welding"
+msgstr "Spawanie zogniskowanym światłem łuku elektrycznego"
+
+#: MEWLD_174
+msgid "Arc stud welding"
+msgstr "Łukowe przyspawanie elementów typu kołki z wykorzystaniem docisku"
+
+#: MEWLD_175
+msgid "Ultrasonic brazing"
+msgstr "Lutowanie twarde ultradźwiękowe"
+
+#: MEWLD_176
+msgid "Friction brazing"
+msgstr "Lutowanie twarde z pocieraniem"
+
+#: MEWLD_177
+msgid "Abrasion soldering"
+msgstr "Lutowanie miękkie z pocieraniem"
+
+#: MEWLD_178
+msgid "Process 781 is replaced by process 783 to 787."
+msgstr "Metoda 781 jest zastąpiona metodami 783 do 787"
+
+#: MEWLD_179
+msgid "Norm and number of process"
+msgstr "Norma i numer procesu"
+
+#: MEWLD_180
+msgid "Annex A"
+msgstr "Załącznik A"
+
+#: MEWLD_185
+msgid "Variant"
+msgstr "Wariant"
+
+#: MEWLD_187
+msgid "Special characters codes. Copy and paste the code into the needed field."
+msgstr "Kody symboli specjalnych. Skopiuj kod i wklej go do żądanego pola."
+
+#: MEWS_001
+msgctxt "MEWS_001"
+msgid "Welds views"
+msgstr "Widoki spoin"
+
+#: VAR_SAVEDATA
+msgid "Remember data"
+msgstr "Pamiętaj dane"
+
+#: VAR_OPTION
+msgid "Option"
+msgstr "Opcja"
+
+#: VAR_NUMBER
+msgid "Numeration"
+msgstr "Numerowanie"
+
+#: VAR_SELECT
+msgid "Select"
+msgstr "Wybierz"
+
+#: VAR_LINK
+msgid "Reference"
+msgstr "Odnośnik"
+
+#: VAR_FPINS
+msgid "Fill pins"
+msgstr "Numeruj podłączenia"
+
+#: MLAC_0265
+msgid "Automatic marks"
+msgstr "Oznaczenia automatyczne"
+
+#: MLAC_X280
+msgid "Line description"
+msgstr "Oznaczenie przewodu"
+
+#: MLAC_X281
+msgid "Deccription with numbering"
+msgstr "Oznaczenie z numerowaniem"
+
+#: MLAC_X282
+msgid "Deccription"
+msgstr "Oznaczenie"
+
+#: MLEAD_000
+msgctxt "MLEAD_000"
+msgid "Additional"
+msgstr "Dodatkowe"
+
+#: MLEAD_001
+msgid "Quick leader"
+msgstr "Szybka linia odniesienia"
+
+#: MLEAD_002
+msgid "Frame"
+msgstr "Ramka"
+
+#: MLEAD_003
+msgid "Oval"
+msgstr "Owal"
+
+#: MLEAD_004
+msgid "Circle"
+msgstr "Okrąg"
+
+#: MLEAD_005
+msgid "Edge"
+msgstr "Krawędź"
+
+#: MLEAD_006
+msgctxt "MLEAD_006"
+msgid "Edges of undefined shape"
+msgstr "Oznaczenie krawędzi"
+
+#: MLEAD_007
+msgid "Labeling of the cover"
+msgstr "Oznaczenie elementu bazowego"
+
+#: MLEAD_008
+msgid "Relation places"
+msgstr "Oznaczenie bazy cząstkowej"
+
+#: MLEAD_009
+msgid "Theoretically accurate mass"
+msgstr "Wymiar teoretycznie dokładny"
+
+#: MLEAD_010
+msgctxt "MLEAD_010"
+msgid "Projection methods"
+msgstr "Metody rzutowania"
+
+#: MLEAD_011
+msgid "Projection"
+msgstr "Rzut"
+
+#: MLEAD_012
+msgid "Mirrored orthogonal"
+msgstr "Rzutowanie prostopadłe"
+
+#: MLEAD_013
+msgid "Cone, inclinations"
+msgstr "Stożki, pochylenia"
+
+#: MLEAD_A13
+msgctxt "MLEAD_A13"
+msgid "Cone"
+msgstr "Stożek"
+
+#: MLEAD_014
+msgctxt "MLEAD_014"
+msgid "Measuring points"
+msgstr "Punkty pomiarowe"
+
+#: MLEAD_015
+msgid "Measuring point"
+msgstr "Punkt pomiarowy"
+
+#: MLEAD_016
+msgid "Reference arrow"
+msgstr "Strzałka odniesienia"
+
+#: MLEAD_017
+msgid "Curved arrow"
+msgstr "Strzałka"
+
+#: MLEAD_018
+msgctxt "MLEAD_018"
+msgid "Centre hole"
+msgstr "Nakiełek"
+
+#: MLEAD_020
+msgctxt "MLEAD_020"
+msgid "Tolerance"
+msgstr "Tolerancje"
+
+#: MLEAD_A20
+msgctxt "MLEAD_A20"
+msgid "Tolerance"
+msgstr "Oznaczenie tolerancji"
+
+#: MLEAD_021
+msgid "Rectitude"
+msgstr "Prostoliniowość"
+
+#: MLEAD_022
+msgid "Flatness"
+msgstr "Płaskość"
+
+#: MLEAD_023
+msgid "Outline of the longitudinal sections"
+msgstr "Zarys przekroju wzdłużnego"
+
+#: MLEAD_024
+msgid "Inclination"
+msgstr "Nachylenie"
+
+#: MLEAD_025
+msgctxt "MLEAD_025"
+msgid "Symmetry"
+msgstr "Symetria"
+
+#: MLEAD_026
+msgid "The intersection of the axis"
+msgstr "Przecinanie się osi"
+
+#: MLEAD_027
+msgid "Profile of an arbitrary line"
+msgstr "Kształt wyznaczonego zarysu"
+
+#: MLEAD_028
+msgid "Profile of any surface"
+msgstr "Kształt wyznaczonej powierzchni"
+
+#: MLEAD_029
+msgid "Roundness"
+msgstr "Okrągłość"
+
+#: MLEAD_030
+msgid "Cylindricity"
+msgstr "Walcowość"
+
+#: MLEAD_031
+msgid "Parallelism"
+msgstr "Równoległość"
+
+#: MLEAD_032
+msgid "Squareness"
+msgstr "Prostopadłość"
+
+#: MLEAD_033
+msgid "Concentricity and coaxial"
+msgstr "Współosiowość"
+
+#: MLEAD_034
+msgid "Position"
+msgstr "Pozycja"
+
+#: MLEAD_035
+msgid "Run"
+msgstr "Bicie"
+
+#: MLEAD_036
+msgid "Total run"
+msgstr "Bicie całkowite"
+
+#: MLEAD_037
+msgid "Arrow for cross-section"
+msgstr "Strzałka przekroju"
+
+#: MLEAD_038
+msgctxt "MLEAD_038"
+msgid "Cross-sections"
+msgstr "Przekroje"
+
+#: MLEAD_039
+msgid "Sign cross-section"
+msgstr "Oznaczenia przekroju"
+
+#: MLEAD_040
+msgctxt "MLEAD_040"
+msgid "Screws"
+msgstr "Wkręty"
+
+#: MLEAD_041
+msgctxt "MLEAD_041"
+msgid "Break lines"
+msgstr "Linie przerwania"
+
+#: MLEAD_042
+msgid "Zigzag line"
+msgstr "Linia zygzakowa"
+
+#: MLEAD_043
+msgid "Wavy line"
+msgstr "Linia falista"
+
+#: MLEAD_044
+msgid "Break for pipe, cylinder..."
+msgstr "Przerwanie rury, walca"
+
+#: MLEAD_045
+msgid "Connection scheme"
+msgstr "Schematy połączeń"
+
+#: MLEAD_046
+msgid "Connection (screw with head)"
+msgstr "Połączenie (śruba dwustronna + nakrętka z zawleczką + nakrętka)"
+
+#: MLEAD_047
+msgid "Grub screw"
+msgstr "Wkręt bez łba"
+
+#: MLEAD_048
+msgid "Eye bolt and butterfly nut"
+msgstr "Połączenie (śruba oczkowa + nakrętka skrzydełkowa)"
+
+#: MLEAD_049
+msgid "Nail"
+msgstr "Gwóźdź"
+
+#: MLEAD_050
+msgid "Head screw"
+msgstr "Wkręt ze łbem walcowym"
+
+#: MLEAD_051
+msgid "Countersunk screw"
+msgstr "Wkręt ze łbem stożkowym"
+
+#: MLEAD_052
+msgid "Wood screw"
+msgstr "Wkręt do drewna"
+
+#: MLEAD_053
+msgid "Broken-out section"
+msgstr "wyrwanie"
+
+#: MLEAD_055
+msgid "Connection (hexagon head bolt and butterfly nut)"
+msgstr "Połączenie (śruba z łbem sześciokątnym + nakrętka skrzydełkowa)"
+
+#: MLEAD_056
+msgid "Connection (double-nutted bolt and nut with cotter)"
+msgstr "Połączenie (śruba dwustronna + nakrętka z zawleczką)"
+
+#: MLEAD_057
+msgid "Connection (countersunk screw)"
+msgstr "Połączenie (śruba z łbem stożkowym)"
+
+#: MLEAD_058
+msgid "Connection (head screw)"
+msgstr "Połączenie (śruba z łbem walcowym)"
+
+#: MLEAD_059
+msgctxt "MLEAD_059"
+msgid "Holes"
+msgstr "Otwory"
+
+#: MLEAD_060
+msgid "Drill workshop"
+msgstr "Wiercenie w warsztacie"
+
+#: MLEAD_061
+msgid "Drill site"
+msgstr "Wiercenie w terenie"
+
+#: MLEAD_062
+msgid "(drill only)"
+msgstr "(bez pogłębienia)"
+
+#: MLEAD_063
+msgctxt "MLEAD_063"
+msgid "(drill countersunk)"
+msgstr "(pogłębienie z jednej strony)"
+
+#: MLEAD_064
+msgid "(drill countersunk both sides)"
+msgstr "(pogłębienie z obu stron)"
+
+#: MLEAD_065
+msgctxt "MLEAD_065"
+msgid "Type"
+msgstr "Oznaczenie"
+
+#: MLEAD_066
+msgid "Fitting bolts into the holes"
+msgstr "Śruby pasowane w otworach"
+
+#: MLEAD_067
+msgid "Drill and fit workshop"
+msgstr "Wiercenie i pasowanie w warsztacie"
+
+#: MLEAD_068
+msgid "Drill workshop fit site"
+msgstr "Wiercenie w warsztacie, pasowanie w terenie"
+
+#: MLEAD_069
+msgid "Drill and fit on site"
+msgstr "Wiercenie i pasowanie w terenie"
+
+#: MLEAD_070
+msgid "Drill fit bolt and nut on side shown"
+msgstr "Śruba z zaznaczoną pozycją nakrętki"
+
+#: MLEAD_071
+msgid "Fitting rivets into the holes"
+msgstr "Nity pasowane w otworach"
+
+#: MLEAD_072
+msgid "top view"
+msgstr "widok z góry"
+
+#: MLEAD_073
+msgid "side view"
+msgstr "widok z boku"
+
+#: MLEAD_074
+msgid "(drill countersunk far site)"
+msgstr "(pogłębienie z drugiej strony)"
+
+#: MLEAD_075
+msgctxt "MLEAD_075"
+msgid "(drill countersunk)"
+msgstr "(pogłębienie z bliższej strony)"
+
+#: MLEAD_076
+msgid "Cock"
+msgstr "Kropka"
+
+#: MLEAD_A76
+msgid "Dot no fill"
+msgstr "Pusta kropka"
+
+#: MLEAD_077
+msgid "symbols"
+msgstr "symbole"
+
+#: MLEAD_078
+msgctxt "MLEAD_078"
+msgid "Fasteners"
+msgstr "Części złączne"
+
+#: MLEAD_079
+msgctxt "MLEAD_079"
+msgid "Rivets"
+msgstr "Nity"
+
+#: MLEAD_081
+msgctxt "MLEAD_081"
+msgid "Countersunk rivet"
+msgstr "Nit z łbem płaskim i zakuwką kulistą"
+
+#: MLEAD_082
+msgctxt "MLEAD_082"
+msgid "Countersunk rivet"
+msgstr "Nit z łbem płaskim i zakuwką płaską"
+
+#: MLEAD_083
+msgid "Oval rivet"
+msgstr "Nit z łbem soczewkowym"
+
+#: MLEAD_084
+msgid "Special rivet"
+msgstr "Nit specjalny"
+
+#: MLEAD_085
+msgid "Screw connection"
+msgstr "Połączenie śrubowe"
+
+#: MLEAD_086
+msgid "Rivet connection"
+msgstr "Połączenie nitowe"
+
+#: MLEAD_087
+msgid "Tubular rivet"
+msgstr "Nit rurkowy"
+
+#: MLEAD_088
+msgid "Elongated hole"
+msgstr "Otwór podłużny"
+
+#: MLEAD_089
+msgid "General symbols"
+msgstr "Symbole ogólne"
+
+#: MLEAD_089
+msgid "Schemes holes"
+msgstr "Schematy otworów"
+
+#: MLEAD_092
+msgid "Button head rivet on both sides"
+msgstr "Łby obustronnie kuliste"
+
+#: MLEAD_093
+msgid "Countersunk heads sunk - top"
+msgstr "Łeb przedni płaski"
+
+#: MLEAD_094
+msgid "Countersunk heads sunk - below"
+msgstr "Łeb tylny płaski"
+
+#: MLEAD_095
+msgid "Countersunk heads sunk - on both sides"
+msgstr "Łby obustronnie płaskie"
+
+#: MLEAD_096
+msgid "Rivet on site"
+msgstr "Nity zakuwane w terenie"
+
+#: MLEAD_097
+msgid "schema"
+msgstr "schemat"
+
+#: MLEAD_098
+msgid "Graphic signs"
+msgstr "oznaczenia graficzne"
+
+#: MNOR_N075
+msgid "Countersink for head bolts hexagon and hex nuts"
+msgstr "Nawiercenie pod łeb sześciokątny i nakrętki sześciokątne"
+
+#: MNOR_N076
+msgid "Countersink for head bolts hexagon reduced"
+msgstr "Nawiercenie pod łeb sześciokątny zmniejszony"
+
+#: MNOR_N077
+msgid "Countersink for countersunk self tapping screw"
+msgstr "Nawiercenie pod łeb stożkowy wkręta samogwintującego"
+
+#: MNOR_N080
+msgid "high quality"
+msgstr "klasa dokładna"
+
+#: MNOR_N081
+msgid "medium quality"
+msgstr "klasa średnio dokładna"
+
+#: MNOR_N001
+msgid "without washer"
+msgstr "bez podkładki"
+
+#: MNOR_N002
+msgid "with washer"
+msgstr "z podkładką"
+
+#: MNOR_N085
+msgid "Blind hole"
+msgstr "Otwór nie przelotowy"
+
+#: MNOR_N003
+msgid "metric"
+msgstr "metryczny"
+
+#: MNOR_N004
+msgid "inch"
+msgstr "calowy"
+
+#: MNOR_PS01
+msgid "L-shapes"
+msgstr "L-Kątowniki"
+
+#: MNOR_PS02
+msgid "T-shapes"
+msgstr "T-Teowniki"
+
+#: MNOR_PS03
+msgid "I-shapes"
+msgstr "I-Dwuteowniki"
+
+#: MNOR_PS04
+msgid "U-shapes"
+msgstr "U-Ceowniki"
+
+#: MNOR_PS05
+msgid "Z-shapes"
+msgstr "Z-Zetowniki"
+
+#: MNOR_PS06
+msgid "Hollow profile"
+msgstr "Profile zamknięte"
+
+#: MNOR_PS07
+msgid "Flat bars"
+msgstr "Płaskowniki"
+
+#: MNOR_N005
+msgid "Cup head square neck bolts with large head"
+msgstr "Śruba ze łbem grzybkowym z podsadzeniem"
+
+#: MNOR_N006
+msgid "style"
+msgstr "odmiana"
+
+#: MNOR_PS08
+msgid "L-shape"
+msgstr "L-Kątownik"
+
+#: MNOR_PS09
+msgid "T-shape"
+msgstr "T-Teownik"
+
+#: MNOR_PS10
+msgid "I-shape"
+msgstr "I-Dwuteownik"
+
+#: MNOR_PS11
+msgid "U-shape"
+msgstr "U-Ceownik"
+
+#: MNOR_PS12
+msgid "Z-shape"
+msgstr "Z-Zetownik"
+
+#: FIELDS_01
+msgid "Attributes"
+msgstr "Atrybuty"
+
+#: FIELDS_02
+msgctxt "FIELDS_02"
+msgid "Lines"
+msgstr "Linie"
+
+#: FIELDS_03
+msgctxt "FIELDS_03"
+msgid "Dimensions"
+msgstr "Wymiary"
+
+#: FIELDS_04
+msgid "Others"
+msgstr "Inne"
